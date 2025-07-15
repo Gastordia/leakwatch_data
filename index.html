@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-Frame-Options" content="DENY">
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+    <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://xposedornot.com https://api.xposedornot.com;">
+    <title>Morocco Breach Watch - Enhanced Data Breach Monitor</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .controls {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .search-filters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        .filter-group input,
+        .filter-group select {
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s ease;
+        }
+
+        .filter-group input:focus,
+        .filter-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filter-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5a6fd8;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: #f8f9fa;
+            color: #333;
+            border: 2px solid #e0e0e0;
+        }
+
+        .btn-secondary:hover {
+            background: #e9ecef;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .charts-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .chart-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .chart-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #333;
+            text-align: center;
+        }
+
+        .breaches-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .breaches-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .breaches-title {
+            font-size: 1.5rem;
+            color: #333;
+        }
+
+        .breaches-info {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .last-updated {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+        }
+
+        .view-btn {
+            padding: 8px 16px;
+            border: 2px solid #e0e0e0;
+            background: white;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .view-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .breach-item {
+            background: white;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .breach-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+
+        .breach-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .breach-date {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 0.9rem;
+        }
+
+        .breach-source {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .breach-content {
+            color: #333;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .breach-meta {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .breach-type {
+            display: inline-block;
+            background: #ffebee;
+            color: #c62828;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .breach-severity {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .severity-critical {
+            background: #ffebee;
+            color: #c62828;
+        }
+
+        .severity-high {
+            background: #fff3e0;
+            color: #e65100;
+        }
+
+        .severity-medium {
+            background: #fff8e1;
+            color: #f57f17;
+        }
+
+        .severity-low {
+            background: #f1f8e9;
+            color: #558b2f;
+        }
+
+        .breach-score {
+            background: #e8f5e8;
+            color: #2e7d32;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .breach-author {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 8px;
+            font-style: italic;
+        }
+
+        .breach-source-url {
+            font-size: 0.85rem;
+            margin-bottom: 8px;
+        }
+
+        .breach-source-url a {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .breach-source-url a:hover {
+            text-decoration: underline;
+        }
+
+        .morocco-highlight {
+            background: #fff3e0;
+            color: #e65100;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .no-breaches {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-style: italic;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .page-btn {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            background: white;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .page-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .page-btn:hover:not(.active) {
+            background: #f8f9fa;
+        }
+
+        .export-section {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .export-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .export-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .btn-export {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-export:hover {
+            background: #218838;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .search-filters {
+                grid-template-columns: 1fr;
+            }
+            
+            .charts-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .breaches-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .breach-header {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Morocco Breach Watch</h1>
+            <p>Enhanced Data Breach Monitor - Real-time security incident tracking</p>
+        </div>
+
+        <div class="controls">
+            <div class="search-filters">
+                <div class="filter-group">
+                    <label for="searchInput">Search Content</label>
+                    <input type="text" id="searchInput" placeholder="Search breaches...">
+                </div>
+                <div class="filter-group">
+                    <label for="severityFilter">Severity</label>
+                    <select id="severityFilter">
+                        <option value="">All Severities</option>
+                        <option value="critical">Critical</option>
+                        <option value="high">High</option>
+                        <option value="medium">Medium</option>
+                        <option value="low">Low</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="typeFilter">Type</label>
+                    <select id="typeFilter">
+                        <option value="">All Types</option>
+                        <option value="Data leak">Data Leak</option>
+                        <option value="Security breach">Security Breach</option>
+                        <option value="Privacy violation">Privacy Violation</option>
+                        <option value="Ransomware">Ransomware</option>
+                        <option value="Malware">Malware</option>
+                        <option value="Phishing">Phishing</option>
+                        <option value="DDoS">DDoS</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="sourceFilter">Source</label>
+                    <input type="text" id="sourceFilter" placeholder="Filter by source...">
+                </div>
+                <div class="filter-group">
+                    <label for="dateFilter">Date Range</label>
+                    <select id="dateFilter">
+                        <option value="">All Time</option>
+                        <option value="today">Today</option>
+                        <option value="week">This Week</option>
+                        <option value="month">This Month</option>
+                        <option value="quarter">This Quarter</option>
+                    </select>
+                </div>
+            </div>
+            <div class="filter-actions">
+                <button class="btn btn-primary" onclick="applyFilters()">Apply Filters</button>
+                <button class="btn btn-secondary" onclick="clearFilters()">Clear All</button>
+                <button class="btn btn-secondary" onclick="toggleMoroccoOnly()">Morocco Only</button>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="totalBreaches">-</div>
+                <div class="stat-label">Total Breaches</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="criticalBreaches">-</div>
+                <div class="stat-label">Critical</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="todayBreaches">-</div>
+                <div class="stat-label">Today</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="moroccoBreaches">-</div>
+                <div class="stat-label">Morocco Related</div>
+            </div>
+        </div>
+
+        <div class="charts-container">
+            <div class="chart-card">
+                <div class="chart-title">Breaches by Severity</div>
+                <canvas id="severityChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">Breaches by Type</div>
+                <canvas id="typeChart"></canvas>
+            </div>
+        </div>
+
+        <div class="export-section">
+            <div class="export-title">Export Data</div>
+            <div class="export-buttons">
+                <button class="btn btn-export" onclick="exportToJSON()">Export JSON</button>
+                <button class="btn btn-export" onclick="exportToCSV()">Export CSV</button>
+                <button class="btn btn-export" onclick="exportToRSS()">Export RSS</button>
+            </div>
+        </div>
+
+        <div class="breaches-container">
+            <div class="breaches-header">
+                <div class="breaches-title">Recent Breaches</div>
+                <div class="breaches-info">
+                    <div class="last-updated" id="lastUpdated">Last updated: Loading...</div>
+                    <div class="view-toggle">
+                        <button class="view-btn active" onclick="setView('list')">List</button>
+                        <button class="view-btn" onclick="setView('grid')">Grid</button>
+                    </div>
+                </div>
+            </div>
+            <div id="breachesList" class="breaches-list">
+                <div class="loading">Loading breaches...</div>
+            </div>
+            <div class="pagination" id="pagination"></div>
+        </div>
+    </div>
+
+    <script>
+        let allBreaches = [];
+        let filteredBreaches = [];
+        let currentPage = 1;
+        let itemsPerPage = 20;
+        let currentView = 'list';
+        let moroccoOnly = false;
+
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadBreaches();
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            // Real-time search
+            document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 300));
+            
+            // Filter changes
+            document.getElementById('severityFilter').addEventListener('change', applyFilters);
+            document.getElementById('typeFilter').addEventListener('change', applyFilters);
+            document.getElementById('sourceFilter').addEventListener('input', debounce(applyFilters, 300));
+            document.getElementById('dateFilter').addEventListener('change', applyFilters);
+        }
+
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        async function loadBreaches() {
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load data');
+                }
+                
+                allBreaches = await response.json();
+                filteredBreaches = [...allBreaches];
+                
+                updateStats();
+                updateCharts();
+                renderBreaches();
+                updateLastUpdated();
+                
+            } catch (error) {
+                console.error('Error loading breaches:', error);
+                document.getElementById('breachesList').innerHTML = 
+                    '<div class="error">Error loading breach data. Please try again later.</div>';
+            }
+        }
+
+        function updateStats() {
+            const total = allBreaches.length;
+            const critical = allBreaches.filter(b => b.severity === 'critical').length;
+            const today = allBreaches.filter(b => isToday(b['Detection Date'])).length;
+            const morocco = allBreaches.filter(b => isMoroccoRelated(b.Content)).length;
+
+            document.getElementById('totalBreaches').textContent = total;
+            document.getElementById('criticalBreaches').textContent = critical;
+            document.getElementById('todayBreaches').textContent = today;
+            document.getElementById('moroccoBreaches').textContent = morocco;
+        }
+
+        function updateCharts() {
+            // Severity chart
+            const severityData = {
+                critical: allBreaches.filter(b => b.severity === 'critical').length,
+                high: allBreaches.filter(b => b.severity === 'high').length,
+                medium: allBreaches.filter(b => b.severity === 'medium').length,
+                low: allBreaches.filter(b => b.severity === 'low').length
+            };
+
+            new Chart(document.getElementById('severityChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Critical', 'High', 'Medium', 'Low'],
+                    datasets: [{
+                        data: [severityData.critical, severityData.high, severityData.medium, severityData.low],
+                        backgroundColor: ['#dc3545', '#fd7e14', '#ffc107', '#28a745']
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }
+            });
+
+            // Type chart
+            const typeCounts = {};
+            allBreaches.forEach(b => {
+                const type = b.Type || 'Other';
+                typeCounts[type] = (typeCounts[type] || 0) + 1;
+            });
+
+            new Chart(document.getElementById('typeChart'), {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(typeCounts),
+                    datasets: [{
+                        label: 'Breaches',
+                        data: Object.values(typeCounts),
+                        backgroundColor: '#667eea'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const severity = document.getElementById('severityFilter').value;
+            const type = document.getElementById('typeFilter').value;
+            const source = document.getElementById('sourceFilter').value.toLowerCase();
+            const dateRange = document.getElementById('dateFilter').value;
+
+            filteredBreaches = allBreaches.filter(breach => {
+                // Search filter
+                if (searchTerm && !breach.Content.toLowerCase().includes(searchTerm)) {
+                    return false;
+                }
+
+                // Severity filter
+                if (severity && breach.severity !== severity) {
+                    return false;
+                }
+
+                // Type filter
+                if (type && breach.Type !== type) {
+                    return false;
+                }
+
+                // Source filter
+                if (source && !breach.Source.toLowerCase().includes(source)) {
+                    return false;
+                }
+
+                // Date filter
+                if (dateRange && !isInDateRange(breach['Detection Date'], dateRange)) {
+                    return false;
+                }
+
+                // Morocco only filter
+                if (moroccoOnly && !isMoroccoRelated(breach.Content)) {
+                    return false;
+                }
+
+                return true;
+            });
+
+            currentPage = 1;
+            renderBreaches();
+        }
+
+        function clearFilters() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('severityFilter').value = '';
+            document.getElementById('typeFilter').value = '';
+            document.getElementById('sourceFilter').value = '';
+            document.getElementById('dateFilter').value = '';
+            moroccoOnly = false;
+            
+            filteredBreaches = [...allBreaches];
+            currentPage = 1;
+            renderBreaches();
+        }
+
+        function toggleMoroccoOnly() {
+            moroccoOnly = !moroccoOnly;
+            applyFilters();
+        }
+
+        function renderBreaches() {
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const pageBreaches = filteredBreaches.slice(startIndex, endIndex);
+
+            const breachesList = document.getElementById('breachesList');
+            
+            if (pageBreaches.length === 0) {
+                breachesList.innerHTML = '<div class="no-breaches">No breaches found matching your criteria.</div>';
+                return;
+            }
+
+            breachesList.innerHTML = pageBreaches.map(breach => `
+                <div class="breach-item">
+                    <div class="breach-header">
+                        <div class="breach-date">${breach['Detection Date']}</div>
+                        <div class="breach-source">${breach.Source}</div>
+                    </div>
+                    ${breach.author ? `<div class="breach-author">Author: ${breach.author}</div>` : ''}
+                    <div class="breach-content">${highlightMorocco(breach.Content)}</div>
+                    <div class="breach-meta">
+                        <span class="breach-type">${breach.Type}</span>
+                        <span class="breach-severity severity-${breach.severity || 'low'}">${breach.severity || 'low'}</span>
+                        ${breach.breach_score ? `<span class="breach-score">Score: ${breach.breach_score.toFixed(1)}</span>` : ''}
+                    </div>
+                    ${breach.Source.startsWith('http') ? `<div class="breach-source-url"><a href="${breach.Source}" target="_blank">View Source</a></div>` : ''}
+                </div>
+            `).join('');
+
+            renderPagination();
+        }
+
+        function renderPagination() {
+            const totalPages = Math.ceil(filteredBreaches.length / itemsPerPage);
+            const pagination = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                pagination.innerHTML = '';
+                return;
+            }
+
+            let paginationHTML = '';
+            
+            // Previous button
+            if (currentPage > 1) {
+                paginationHTML += `<button class="page-btn" onclick="goToPage(${currentPage - 1})">Previous</button>`;
+            }
+
+            // Page numbers
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
+                    paginationHTML += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+                } else if (i === currentPage - 3 || i === currentPage + 3) {
+                    paginationHTML += `<span class="page-btn">...</span>`;
+                }
+            }
+
+            // Next button
+            if (currentPage < totalPages) {
+                paginationHTML += `<button class="page-btn" onclick="goToPage(${currentPage + 1})">Next</button>`;
+            }
+
+            pagination.innerHTML = paginationHTML;
+        }
+
+        function goToPage(page) {
+            currentPage = page;
+            renderBreaches();
+            window.scrollTo({ top: document.querySelector('.breaches-container').offsetTop, behavior: 'smooth' });
+        }
+
+        function setView(view) {
+            currentView = view;
+            document.querySelectorAll('.view-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            renderBreaches();
+        }
+
+        function highlightMorocco(text) {
+            const moroccoKeywords = ['morocco', 'moroccan', 'ma', 'casablanca', 'rabat', 'marrakech', 'fes', 'tangier'];
+            let highlighted = text;
+            
+            moroccoKeywords.forEach(keyword => {
+                const regex = new RegExp(`(${keyword})`, 'gi');
+                highlighted = highlighted.replace(regex, '<span class="morocco-highlight">$1</span>');
+            });
+            
+            return highlighted;
+        }
+
+        function isMoroccoRelated(text) {
+            const moroccoKeywords = ['morocco', 'moroccan', 'ma', 'casablanca', 'rabat', 'marrakech', 'fes', 'tangier'];
+            return moroccoKeywords.some(keyword => text.toLowerCase().includes(keyword));
+        }
+
+        function isToday(dateStr) {
+            try {
+                const date = new Date(dateStr);
+                const today = new Date();
+                return date.toDateString() === today.toDateString();
+            } catch {
+                return false;
+            }
+        }
+
+        function isInDateRange(dateStr, range) {
+            try {
+                const date = new Date(dateStr);
+                const today = new Date();
+                
+                switch (range) {
+                    case 'today':
+                        return date.toDateString() === today.toDateString();
+                    case 'week':
+                        const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+                        return date >= weekAgo;
+                    case 'month':
+                        const monthAgo = new Date(today.getTime() - 30 * 24 * 60 * 60 * 1000);
+                        return date >= monthAgo;
+                    case 'quarter':
+                        const quarterAgo = new Date(today.getTime() - 90 * 24 * 60 * 60 * 1000);
+                        return date >= quarterAgo;
+                    default:
+                        return true;
+                }
+            } catch {
+                return false;
+            }
+        }
+
+        function updateLastUpdated() {
+            const now = new Date();
+            document.getElementById('lastUpdated').textContent = 
+                `Last updated: ${now.toLocaleString()}`;
+        }
+
+        function exportToJSON() {
+            const dataStr = JSON.stringify(filteredBreaches, null, 2);
+            downloadFile(dataStr, 'breaches.json', 'application/json');
+        }
+
+        function exportToCSV() {
+            const headers = ['Source', 'Content', 'author', 'Detection Date', 'Type', 'severity', 'breach_score'];
+            const csvContent = [
+                headers.join(','),
+                ...filteredBreaches.map(breach => 
+                    headers.map(header => {
+                        const value = breach[header] || '';
+                        return `"${value.toString().replace(/"/g, '""')}"`;
+                    }).join(',')
+                )
+            ].join('\n');
+            
+            downloadFile(csvContent, 'breaches.csv', 'text/csv');
+        }
+
+        function exportToRSS() {
+            const rss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Morocco Breach Watch</title>
+    <link>${window.location.origin}</link>
+    <description>Latest data breaches and security incidents</description>
+    <language>en-us</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    ${filteredBreaches.slice(0, 50).map(breach => `
+    <item>
+        <title>${breach.Content.substring(0, 100)}...</title>
+        <link>${breach.Source.startsWith('http') ? breach.Source : window.location.origin}</link>
+        <description>${breach.Content}</description>
+        <pubDate>${new Date(breach['Detection Date']).toUTCString()}</pubDate>
+        <category>${breach.Type}</category>
+    </item>
+    `).join('')}
+</channel>
+</rss>`;
+            
+            downloadFile(rss, 'breaches.rss', 'application/rss+xml');
+        }
+
+        function downloadFile(content, filename, contentType) {
+            const blob = new Blob([content], { type: contentType });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html> 
