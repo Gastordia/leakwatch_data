@@ -27,40 +27,31 @@
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco - Ministry of Education, author: a href=https://darkforums.st/member.php?action=profile&uid=1523Tanaka/a, Detection Date: 15 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: FNBTP Maroc ( Maghreb ) DB !, author: a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a, Detection Date: 08 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 811198,
-    "timestamp": "2025-07-15T20:40:39+00:00",
-    "hash_id": "efa30be80c9841aa",
+    "message_id": 805657,
+    "timestamp": "2025-07-08T21:32:37+00:00",
+    "hash_id": "9c5cabc5a6a91ae5",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 15 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: [Leak LeFigaro ] – When you insult the Maghreb, your flaws speak for you, author: a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a, Detection Date: 11 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 811157,
-    "timestamp": "2025-07-15T19:52:22+00:00",
-    "hash_id": "dd5d692dc17590ef",
+    "message_id": 784190,
+    "timestamp": "2025-06-11T14:12:16+00:00",
+    "hash_id": "ace4d0f393f2c057",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: Fresh Valid MOROCCO Combolists, author: (ComboPoster), Detection Date: 15 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Marrocan University - FSTE Université Moulay Ismaïl - Full Database, author: a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a, Detection Date: 03 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 811156,
-    "timestamp": "2025-07-15T19:52:21+00:00",
-    "hash_id": "10f167ba97553e88",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: avito morocco.csv, author: a href=https://darkforums.st/member.php?action=profile&uid=24870izeeenn27/a, Detection Date: 15 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 810891,
-    "timestamp": "2025-07-15T12:18:12+00:00",
-    "hash_id": "99054ac6aae11265",
-    "severity": "medium"
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "bbef83731c0de3da",
+    "severity": "high"
   },
   {
     "Content": "{ Source: Darkforums[.]st, Content: [MA]-MOROCCO-URL-LOGIN-PASS, author: a href=https://darkforums.st/member.php?action=profile&uid=7445RL000/a, Detection Date: 10 Jul 2025, Type: Data leak }",
@@ -72,102 +63,48 @@
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: [MOROCCO] Student data in the Ministry of Education, author: a href=https://darkforums.st/member.php?action=profile&uid=8214bxxxx1/a, Detection Date: 08 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: hacked website : www.cromc.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 10 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 805452,
-    "timestamp": "2025-07-08T15:39:02+00:00",
-    "hash_id": "fd0307b5852d8cbd",
-    "severity": "medium"
+    "message_id": 806931,
+    "timestamp": "2025-07-10T12:25:08+00:00",
+    "hash_id": "c3c97a3cfacf79b7",
+    "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: 135K Morocco UHQ Combolist, author: a href=https://darkforums.st/member.php?action=profile&uid=20308SYCOSUNNY/a, Detection Date: 07 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: joutech.ma Database, author: a href=https://darkforums.st/member.php?action=profile&uid=7445RL000/a, Detection Date: 08 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 804802,
-    "timestamp": "2025-07-07T21:09:04+00:00",
-    "hash_id": "aba6e5f35c9a3616",
-    "severity": "medium"
+    "message_id": 805450,
+    "timestamp": "2025-07-08T15:39:00+00:00",
+    "hash_id": "6a33c14470ca72ec",
+    "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco-CNSS App Fully Decrypted – Static Analysis & All Security Layers Bypassed, author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 05 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: inwi telecom inwi.ma DataBase, author: a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a, Detection Date: 05 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 802832,
-    "timestamp": "2025-07-05T08:52:26+00:00",
-    "hash_id": "cd01d0059d04b101",
-    "severity": "medium"
+    "message_id": 803281,
+    "timestamp": "2025-07-05T22:03:35+00:00",
+    "hash_id": "450805e63a0cbe3b",
+    "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco (PMMP) Moroccan government for public procurement Full Database Breached, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 05 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: hacked website : enssup.gov.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 01 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 802545,
-    "timestamp": "2025-07-04T23:37:53+00:00",
-    "hash_id": "d552a595fd1b9b45",
-    "severity": "critical"
+    "message_id": 799857,
+    "timestamp": "2025-07-01T16:48:36+00:00",
+    "hash_id": "0e86988a14c1c234",
+    "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco social insurance. April DB, author: a href=https://darkforums.st/member.php?action=profile&uid=22879Leonsky/a, Detection Date: 04 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: hacked website : Culture.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 28 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 801942,
-    "timestamp": "2025-07-04T07:37:35+00:00",
-    "hash_id": "057cc202718c69dc",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - MarsaMaroc database sample -fullname + emails ( no passwords ), author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 01 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 799510,
-    "timestamp": "2025-07-01T06:43:28+00:00",
-    "hash_id": "b1281178ac7f00d9",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco [CNOPS Morocco – Employee Names + CIN + CNI (Sensitive Docs)], author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 30 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 798634,
-    "timestamp": "2025-06-30T05:32:45+00:00",
-    "hash_id": "1da4c072c85ad26e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Leak db of the Embassy of Djibouti in Morocco, author: a href=https://darkforums.st/member.php?action=profile&uid=25680Doxeur23azi/a, Detection Date: 29 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 798084,
-    "timestamp": "2025-06-29T12:45:39+00:00",
-    "hash_id": "dc868d70b27e673b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - [Potential Internal Document Leak – SOTHEMA], author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 27 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 796658,
-    "timestamp": "2025-06-27T16:35:08+00:00",
-    "hash_id": "3e440b8f17962be6",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - Potential Internal Document Leak – SOTHEMA, author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 27 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 796656,
-    "timestamp": "2025-06-27T16:35:03+00:00",
-    "hash_id": "d67f5e07850d4deb",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco clinic system database, author: a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a, Detection Date: 27 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 796048,
-    "timestamp": "2025-06-26T22:59:35+00:00",
-    "hash_id": "1c70f2b8cfb4f141",
+    "message_id": 797395,
+    "timestamp": "2025-06-28T14:10:54+00:00",
+    "hash_id": "f6c260bd6e020d1d",
     "severity": "high"
   },
   {
@@ -180,328 +117,427 @@
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Football federation morocco Leak, author: a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a, Detection Date: 19 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: Leakbase[.]la, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 790068,
-    "timestamp": "2025-06-19T03:16:25+00:00",
-    "hash_id": "72929143dcc23cc2",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://darknetarmy.com/, Content: HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47, author: (slender47), Detection Date: 15 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 787108,
-    "timestamp": "2025-06-15T08:14:52+00:00",
-    "hash_id": "7bf605d0390523dc",
+    "message_id": 788510,
+    "timestamp": "2025-06-17T02:21:36+00:00",
+    "hash_id": "fdb3aa06e04cc063",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://darknetarmy.com/, Content: DATA 2025/06/14 MOROCCO (MGPTT) – Mutuelle Générale des Postes et Télécommunications-by slanderman47, author: (slender47), Detection Date: 15 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: webmail.menara.ma Web Mail access, author: a href=https://darkforums.st/member.php?action=profile&uid=21939mrdump/a, Detection Date: 14 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 787105,
-    "timestamp": "2025-06-15T08:14:49+00:00",
-    "hash_id": "ab2ccb5a42c93b2e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: DATA 2025/06/14 MOROCCO (MGPTT) – Mutuelle Générale des Postes et Télécommunications-, author: a href=https://darkforums.st/member.php?action=profile&uid=22150ONIONFAR47/a, Detection Date: 15 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 786903,
-    "timestamp": "2025-06-15T01:19:59+00:00",
-    "hash_id": "0463fd78a027a40e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47, author: a href=https://darkforums.st/member.php?action=profile&uid=17892robindoe/a, Detection Date: 14 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 786760,
-    "timestamp": "2025-06-14T21:05:58+00:00",
-    "hash_id": "84b53fd989481fa0",
+    "message_id": 786019,
+    "timestamp": "2025-06-14T00:08:25+00:00",
+    "hash_id": "6a8271d7f64c99c7",
     "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASE, author: a href=https://darkforums.st/member.php?action=profile&uid=3903Ayiemedia/a, Detection Date: 14 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.la/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 22 May 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 786356,
-    "timestamp": "2025-06-14T11:00:59+00:00",
-    "hash_id": "b5aa914c31e41ffe",
+    "message_id": 770039,
+    "timestamp": "2025-05-22T15:12:08+00:00",
+    "hash_id": "3ace3b8c42fcd8c5",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 12 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://crackingx.com/, Content: [1.853 lines] ☣️taalim.ma 11-04-25, author: (BestCombo), Detection Date: 17 May 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 785054,
-    "timestamp": "2025-06-12T17:06:10+00:00",
-    "hash_id": "98a8d3e8d5729309",
+    "message_id": 766741,
+    "timestamp": "2025-05-17T08:57:42+00:00",
+    "hash_id": "0d3bf95f30db7167",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) [this wont be deleted], author: a href=https://darkforums.st/member.php?action=profile&uid=6231DrXFred0x/a, Detection Date: 04 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://saojosedosbasilios.ma.gov.br/0x.txt, author: , Detection Date: 29 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 779185,
-    "timestamp": "2025-06-04T18:43:33+00:00",
-    "hash_id": "759988365c182cc2",
+    "message_id": 756143,
+    "timestamp": "2025-04-29T16:43:27+00:00",
+    "hash_id": "7db96e4201f45b86",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC), author: a href=https://darkforums.st/member.php?action=profile&uid=18545beta/a, Detection Date: 04 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://cmpauloramos.ma.gov.br/vzz.txt, author: , Detection Date: 23 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 778999,
-    "timestamp": "2025-06-04T12:51:41+00:00",
-    "hash_id": "f90c658a5c7d347c",
+    "message_id": 751500,
+    "timestamp": "2025-04-23T13:24:35+00:00",
+    "hash_id": "577641bd6b695083",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco Websites data leaked for free download, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 03 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 14 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 778305,
-    "timestamp": "2025-06-03T14:59:50+00:00",
-    "hash_id": "99c7d87f89595be7",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASES, author: a href=https://darkforums.st/member.php?action=profile&uid=17400Jabaroot/a, Detection Date: 02 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 777419,
-    "timestamp": "2025-06-02T11:36:45+00:00",
-    "hash_id": "9c7e54d3ecb4117f",
+    "message_id": 744405,
+    "timestamp": "2025-04-14T06:59:47+00:00",
+    "hash_id": "d0e3fec470647777",
     "severity": "high"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: Football federation morocco ftp server data leak Free download!, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 02 Jun 2025, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 14 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 777072,
-    "timestamp": "2025-06-01T23:04:00+00:00",
-    "hash_id": "ede720f05d47d2b5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Morocco Senstive information Leaked Free Download, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 29 May 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 774752,
-    "timestamp": "2025-05-29T20:24:55+00:00",
-    "hash_id": "32391fe720a0827e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://darknetarmy.com/, Content: Morocco Ministry of National Land Use Planning Leaked Free Download, author: (B4ba Yega), Detection Date: 16 May 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 765917,
-    "timestamp": "2025-05-16T05:11:43+00:00",
-    "hash_id": "a922c276c2fff3ea",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Im Moving to Morocco, author: (BassTrackerBoats), Detection Date: 28 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 755087,
-    "timestamp": "2025-04-28T07:04:06+00:00",
-    "hash_id": "f0b9a85513b117ee",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Im Moving to Morocco, author: (BassTrackerBoats), Detection Date: 18 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 747938,
-    "timestamp": "2025-04-18T18:04:02+00:00",
-    "hash_id": "5fb093bcf647bf5f",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 09 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 741113,
-    "timestamp": "2025-04-09T15:11:33+00:00",
-    "hash_id": "6ea35953e7eef143",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://crackingx.com/, Content: MOROCCO COMBO, author: (CODER), Detection Date: 15 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 722670,
-    "timestamp": "2025-03-15T14:07:12+00:00",
-    "hash_id": "c4181571f840d44b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: 40K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 27 -2 -2025 ], author: (ComboPoster), Detection Date: 07 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 716355,
-    "timestamp": "2025-03-07T12:12:23+00:00",
-    "hash_id": "675a5fcb8aa384ae",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: 40K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 27 -2 -2025 ], author: (ComboPoster), Detection Date: 27 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 710362,
-    "timestamp": "2025-02-27T08:07:13+00:00",
-    "hash_id": "29ff25dd57245268",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: 41K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 23 -2 -2025 ], author: (ComboPoster), Detection Date: 23 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 707409,
-    "timestamp": "2025-02-23T03:08:19+00:00",
-    "hash_id": "c7071823be8f8bc5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 14 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 701392,
-    "timestamp": "2025-02-14T10:34:49+00:00",
-    "hash_id": "483c66ec4d640328",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 21 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 665417,
-    "timestamp": "2024-12-21T09:03:14+00:00",
-    "hash_id": "1088f74d277c2f0b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 29 Sep 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 615690,
-    "timestamp": "2024-09-29T13:10:31+00:00",
-    "hash_id": "013d5f438a8a5baf",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: I need eBay accounts for Morocco, Ukraine, Turkey, Thailand, Japan and Israel., author: (firstgun), Detection Date: 23 Sep 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 612297,
-    "timestamp": "2024-09-23T08:10:51+00:00",
-    "hash_id": "22b9ce9353c49faf",
+    "message_id": 744404,
+    "timestamp": "2025-04-14T06:19:48+00:00",
+    "hash_id": "a2bf1607c60526db",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 10 Sep 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 12 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 605110,
-    "timestamp": "2024-09-10T15:12:22+00:00",
-    "hash_id": "468899cf0a837b58",
+    "message_id": 743139,
+    "timestamp": "2025-04-12T12:16:55+00:00",
+    "hash_id": "d5c387a4b43a895c",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 12 Apr 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 743127,
+    "timestamp": "2025-04-12T12:12:23+00:00",
+    "hash_id": "6b70b5975d2fa31c",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://sigep.detran.ma.gov.br/index.html.old, author: , Detection Date: 04 Apr 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 737659,
+    "timestamp": "2025-04-04T16:25:59+00:00",
+    "hash_id": "54907b5ec756c195",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Sports Websites from UAE, Saudi Arabia, Morocco, Egypt, and Kuwait, author: (Arooj Imran), Detection Date: 08 Aug 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 28 Mar 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 586818,
-    "timestamp": "2024-08-08T11:14:10+00:00",
-    "hash_id": "cd5c0d01eab3d08e",
+    "message_id": 732645,
+    "timestamp": "2025-03-28T11:44:45+00:00",
+    "hash_id": "48eb6dce37bc7043",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 28 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 732641,
+    "timestamp": "2025-03-28T11:40:29+00:00",
+    "hash_id": "1d98fabcb2ea5b33",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 723832,
+    "timestamp": "2025-03-17T06:52:27+00:00",
+    "hash_id": "b89b5d11263e8576",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 723826,
+    "timestamp": "2025-03-17T06:32:40+00:00",
+    "hash_id": "dc5c0bcd4a4fd7c0",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Aub.ma, author: (frog), Detection Date: 11 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 719724,
+    "timestamp": "2025-03-11T20:17:00+00:00",
+    "hash_id": "1df7f8fd9ac7fcea",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://sinister.ly/, Content: Morocco SE, author: a href=https://sinister.ly/member.php?action=profile&uid=259457ayzrefund/a, Detection Date: 17 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 19 Feb 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 574398,
-    "timestamp": "2024-07-16T22:30:21+00:00",
-    "hash_id": "a0d573097129c919",
+    "message_id": 705062,
+    "timestamp": "2025-02-19T18:31:12+00:00",
+    "hash_id": "19519a7e2ce320d9",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 19 Feb 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 705040,
+    "timestamp": "2025-02-19T17:59:08+00:00",
+    "hash_id": "173e15ef365f7bbf",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Victim: askgsma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __8a86391c913aaab6191926cb2bd0b328cf5ddc28954fe2b7e0e54d62b787a01f__ Target victim : __askgs.ma__”, Detection Date: 12 Feb 2025, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 700131,
+    "timestamp": "2025-02-12T14:04:50+00:00",
+    "hash_id": "cf05148022c90644",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: acao.org.ma, author: (jorma), Detection Date: 05 Feb 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 694997,
+    "timestamp": "2025-02-05T01:55:08+00:00",
+    "hash_id": "8acd83e47dea0bdf",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 09 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: acao.org.ma, author: (jorma), Detection Date: 05 Feb 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 569856,
-    "timestamp": "2024-07-09T15:35:44+00:00",
-    "hash_id": "ade4660441e584d7",
+    "message_id": 694990,
+    "timestamp": "2025-02-05T01:28:58+00:00",
+    "hash_id": "a015972ac4be708b",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello guys im an entity from morocco, i have access to all replica watches and high brand clone market , highest quality and on budget., author: (96entity), Detection Date: 06 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://ae.gov.ma, author: , Detection Date: 04 Feb 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 567352,
-    "timestamp": "2024-07-06T17:20:26+00:00",
-    "hash_id": "4b74a6a35ca07835",
+    "message_id": 694866,
+    "timestamp": "2025-02-04T21:42:41+00:00",
+    "hash_id": "6f7a23a484ec350c",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 14 Jun 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Feb 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 549284,
-    "timestamp": "2024-06-14T09:16:08+00:00",
-    "hash_id": "5fd7bba00197a346",
+    "message_id": 692675,
+    "timestamp": "2025-02-01T12:58:56+00:00",
+    "hash_id": "3a7e92de43036588",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Victim: wwwusmbaacma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __d8c9f41d9b90fafdb3590898dcf1bad776c1b4eb4b8243a6c0cd552750039b5e__ Target victim : __www.usmba.ac.ma__”, Detection Date: 24 Jan 2025, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 687636,
+    "timestamp": "2025-01-24T20:49:42+00:00",
+    "hash_id": "c81376cbb349688e",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 04 Jan 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 673964,
+    "timestamp": "2025-01-04T01:46:48+00:00",
+    "hash_id": "def032d46ea3fb09",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 04 Jan 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 673959,
+    "timestamp": "2025-01-04T01:24:48+00:00",
+    "hash_id": "c6975c19be4b07c3",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: http://honda.ma, author: , Detection Date: 02 Jan 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 673065,
+    "timestamp": "2025-01-02T17:26:03+00:00",
+    "hash_id": "11a19a2e72f7394c",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: 158K Morocco Private Uhq Combolist, author: (dodakiraa), Detection Date: 14 Jun 2024, Type: Data leak }",
+    "Content": "{ Victim: Watertown-Public-Schools, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __ff085770cb2d9908464cd8208f88101f04acd2a91a88de49a07b42126755f0f2__ Target victim : __watertown.k12.ma.us__”, Detection Date: 28 Dec 2024, Type: Ransom Alert } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 549210,
-    "timestamp": "2024-06-14T07:09:06+00:00",
-    "hash_id": "b5054ccb7ace55eb",
+    "message_id": 669997,
+    "timestamp": "2024-12-28T16:39:48+00:00",
+    "hash_id": "eddf549650995420",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 08 Dec 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 657444,
+    "timestamp": "2024-12-08T21:58:27+00:00",
+    "hash_id": "95a4310dc7ff9813",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 08 Dec 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 657438,
+    "timestamp": "2024-12-08T21:46:12+00:00",
+    "hash_id": "347eacebe0813c6b",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Dec 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 652487,
+    "timestamp": "2024-12-01T03:15:04+00:00",
+    "hash_id": "2b1e691038167342",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Dec 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 652472,
+    "timestamp": "2024-12-01T03:00:57+00:00",
+    "hash_id": "7e47c35e9c2be9d1",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 19 Nov 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 645387,
+    "timestamp": "2024-11-19T18:18:16+00:00",
+    "hash_id": "c7fc679536df1f9a",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 19 Nov 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 645372,
+    "timestamp": "2024-11-19T17:56:00+00:00",
+    "hash_id": "46a632c990e350aa",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 29 Oct 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 632352,
+    "timestamp": "2024-10-29T08:11:58+00:00",
+    "hash_id": "165e7e5317975320",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 18 Aug 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 592286,
+    "timestamp": "2024-08-18T12:13:44+00:00",
+    "hash_id": "404923af274e90a1",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 11 Aug 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 588697,
+    "timestamp": "2024-08-11T21:48:20+00:00",
+    "hash_id": "043b41f61ea65e6a",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 02 Aug 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 583730,
+    "timestamp": "2024-08-02T16:47:27+00:00",
+    "hash_id": "89bf8b29e5d01640",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 30 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 581991,
+    "timestamp": "2024-07-30T16:15:00+00:00",
+    "hash_id": "b2e01db84cf07c6f",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma, author: (BINDECH), Detection Date: 29 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 581499,
+    "timestamp": "2024-07-29T19:10:28+00:00",
+    "hash_id": "42d828f40ede37e5",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 12 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 571696,
+    "timestamp": "2024-07-12T04:03:24+00:00",
+    "hash_id": "866d8f7832c27cf6",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://www.arari.ma.gov.br/vz.txt, author: , Detection Date: 19 Jun 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 553142,
+    "timestamp": "2024-06-19T02:48:35+00:00",
+    "hash_id": "1ae600c8218d5ee0",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 04 Jun 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 26 May 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 541850,
-    "timestamp": "2024-06-04T21:50:29+00:00",
-    "hash_id": "186e3d9cac32bef2",
+    "message_id": 533675,
+    "timestamp": "2024-05-26T02:13:39+00:00",
+    "hash_id": "990ee24598e74222",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 20 May 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 528102,
+    "timestamp": "2024-05-20T00:16:03+00:00",
+    "hash_id": "2ff648fdbf6ef7f8",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: Breachforums/, Content: adidas.co.ma 62,672, author: , Detection Date: 13 May 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 522333,
+    "timestamp": "2024-05-13T14:49:26+00:00",
+    "hash_id": "11d717d1a6d893ea",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: http://asv.limacampos.ma.gov.br/cl.html, author: , Detection Date: 01 May 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 511467,
+    "timestamp": "2024-05-01T17:12:25+00:00",
+    "hash_id": "9aac8e83598dbab8",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Ecommerce in Morocco, author: (winas), Detection Date: 14 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 15 Apr 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 523368,
-    "timestamp": "2024-05-14T18:21:21+00:00",
-    "hash_id": "4a15e90256ad2e59",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 13 Apr 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 494904,
-    "timestamp": "2024-04-13T10:37:59+00:00",
-    "hash_id": "209d48ab172396a3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 10 Apr 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 492570,
-    "timestamp": "2024-04-10T18:15:10+00:00",
-    "hash_id": "4380f63dbf8afb8f",
-    "severity": "medium"
+    "message_id": 496984,
+    "timestamp": "2024-04-15T19:57:09+00:00",
+    "hash_id": "d4cb2e690144fbe6",
+    "severity": "high"
   },
   {
     "Content": "{ Source: DB_MARKEETS, Content: 156K ma Morocco Domains by Stradu .txt 4.7 MB 🇲🇦 156K ma Morocco Domains by Stradu, author: DB-MARKEET ™, Detection Date: 10 Apr 2024, Type: Data leak }",
@@ -513,318 +549,480 @@
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 23 Mar 2024, Type: Data leak }",
+    "Content": "{ Source: Breachforums/, Content: FREE - [ Brazil ] gcv.pm.ma.gov.br Database, author: , Detection Date: 29 Mar 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 476109,
-    "timestamp": "2024-03-23T00:05:22+00:00",
-    "hash_id": "ec476756cfe82bde",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: 158K Morocco Private Uhq Combolist, author: (dodakiraa), Detection Date: 23 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 476078,
-    "timestamp": "2024-03-22T23:39:24+00:00",
-    "hash_id": "e9bae9bfad6db4aa",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 22 Feb 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 449544,
-    "timestamp": "2024-02-22T00:17:51+00:00",
-    "hash_id": "06443fdff7febdb3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: ebay Morocco, author: (vectoorchez), Detection Date: 21 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 425539,
-    "timestamp": "2024-01-21T03:48:17+00:00",
-    "hash_id": "9712b11e5750b57a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 08 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 416539,
-    "timestamp": "2024-01-08T18:57:26+00:00",
-    "hash_id": "fb9d9bd346bc71bd",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Lead Part2, author: (drudown500), Detection Date: 05 Dec 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 393004,
-    "timestamp": "2023-12-05T01:23:04+00:00",
-    "hash_id": "1a05ea5fc99d739f",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: Database Morocco, author: , Detection Date: 16 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 379960,
-    "timestamp": "2023-11-16T15:50:38+00:00",
-    "hash_id": "76936f0bfb54a852",
+    "message_id": 481491,
+    "timestamp": "2024-03-28T23:51:44+00:00",
+    "hash_id": "1ab638fe8fc6f247",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: Database Morocco | BreachForums, author: , Detection Date: 16 Nov 2023, Type: Data leak }",
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://noussahimo.gov.ma/vzz.txt, author: , Detection Date: 16 Mar 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 379959,
-    "timestamp": "2023-11-16T15:50:37+00:00",
-    "hash_id": "263378417ef19beb",
+    "message_id": 469950,
+    "timestamp": "2024-03-16T04:48:10+00:00",
+    "hash_id": "e5cc64366a1b690d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://caema.ma.gov.br/vz.txt, author: , Detection Date: 14 Mar 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 468579,
+    "timestamp": "2024-03-14T14:59:49+00:00",
+    "hash_id": "0c94f82d636d2075",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 13 Mar 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 467596,
+    "timestamp": "2024-03-13T12:42:27+00:00",
+    "hash_id": "826662d1c7f77404",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 12 Mar 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 466543,
+    "timestamp": "2024-03-12T05:49:13+00:00",
+    "hash_id": "47389f891656dc43",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: WTB Morocco Static IP, author: (Carlods99), Detection Date: 25 Oct 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://cmpresidentesarney.ma.gov.br/0x.txt, author: , Detection Date: 04 Mar 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 366541,
-    "timestamp": "2023-10-25T08:01:53+00:00",
-    "hash_id": "dcdb34bdab6740c6",
+    "message_id": 459709,
+    "timestamp": "2024-03-04T01:23:20+00:00",
+    "hash_id": "349a470fa51ed5e2",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 06 Oct 2023, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 26 Feb 2024, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 353056,
-    "timestamp": "2023-10-06T00:53:22+00:00",
-    "hash_id": "9f10009833b67bcd",
+    "message_id": 453951,
+    "timestamp": "2024-02-26T21:17:07+00:00",
+    "hash_id": "1669740dad24ae3d",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://crackingx.com/, Content: dcshop.ma - Accounts shop (10000+ shops,banks,CC,SPAM,fullz,call-in, author: (dcshp), Detection Date: 22 Feb 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 449658,
+    "timestamp": "2024-02-22T03:40:46+00:00",
+    "hash_id": "6a37c708b99c3e0a",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 12 Feb 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 440658,
+    "timestamp": "2024-02-12T16:40:31+00:00",
+    "hash_id": "0bb332d7b55250e9",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 31 Jan 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 432446,
+    "timestamp": "2024-01-31T01:40:50+00:00",
+    "hash_id": "a2e2c970035162b1",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma, author: (BINDECH), Detection Date: 22 Jan 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 426894,
+    "timestamp": "2024-01-22T21:46:09+00:00",
+    "hash_id": "15102a895939fcb6",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 24 Dec 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 406006,
+    "timestamp": "2023-12-24T06:11:20+00:00",
+    "hash_id": "b86f8c936d9d4402",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: www.aub.ma, author: , Detection Date: 29 Nov 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 389009,
+    "timestamp": "2023-11-29T08:31:03+00:00",
+    "hash_id": "d8b6796f0b44223f",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Aub.ma, author: (frog), Detection Date: 28 Nov 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 388665,
+    "timestamp": "2023-11-28T19:50:44+00:00",
+    "hash_id": "766f07a63c5a5ba9",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: please pray for morocco, author: (ownes), Detection Date: 13 Sep 2023, Type: Data leak }",
+    "Content": "{ Source: https://leakbase.cc/, Content: Url Login Pass 7 Million .Ma, author: (ntscuti4), Detection Date: 26 Nov 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 337682,
-    "timestamp": "2023-09-13T19:40:32+00:00",
-    "hash_id": "4adc324b3e351020",
+    "message_id": 386959,
+    "timestamp": "2023-11-26T12:25:44+00:00",
+    "hash_id": "b851481e7b9a415e",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 09 Sep 2023, Type: Data leak }",
+    "Content": "{ Source: https://sinister.ly/, Content: DCSHOP.MA BEST STORE, author: a href=https://sinister.ly/member.php?action=profile&uid=244975dcshop/a, Detection Date: 20 Nov 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 333975,
-    "timestamp": "2023-09-09T00:03:10+00:00",
-    "hash_id": "1253f6ed5cfeff44",
+    "message_id": 383004,
+    "timestamp": "2023-11-20T18:30:00+00:00",
+    "hash_id": "f695f813a3805fd3",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Business Leads Part3, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Content": "{ Source: https://crackingx.com/, Content: dcshop.ma - Accounts shop (10000+ shops,banks,CC,SPAM,fullz,call-in, author: (dcshp), Detection Date: 06 Nov 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 330517,
-    "timestamp": "2023-09-04T14:13:55+00:00",
-    "hash_id": "84d728ec94cb9704",
+    "message_id": 371564,
+    "timestamp": "2023-11-06T13:52:10+00:00",
+    "hash_id": "53dc1ca741054f81",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: .Ma - Url Login Password List 7Kk, author: (Chucky), Detection Date: 27 Oct 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 368192,
+    "timestamp": "2023-10-27T00:40:19+00:00",
+    "hash_id": "932ba88f458a05e2",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 26 Oct 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 367989,
+    "timestamp": "2023-10-26T19:29:13+00:00",
+    "hash_id": "b4976fd0167b882c",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP) | Page 5 | Carding Forum, Black Market & Freebies, author: , Detection Date: 16 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 340080,
+    "timestamp": "2023-09-16T18:49:43+00:00",
+    "hash_id": "faa55aa483693e2c",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 02 Jul 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 293007,
+    "timestamp": "2023-07-02T21:01:12+00:00",
+    "hash_id": "86df0f65ae96dd69",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 20 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 285111,
+    "timestamp": "2023-06-19T22:57:39+00:00",
+    "hash_id": "cfdfa0bfc9bba41d",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://support.academiaraqmya.gov.ma/Ir.html, author: , Detection Date: 20 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 285110,
+    "timestamp": "2023-06-19T22:57:35+00:00",
+    "hash_id": "23e0be0136e01207",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Leads, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://preprod.academiaraqmya.gov.ma/Ir.html, author: , Detection Date: 20 Jun 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 330491,
-    "timestamp": "2023-09-04T13:52:06+00:00",
-    "hash_id": "ed7b3939c8c32008",
+    "message_id": 285109,
+    "timestamp": "2023-06-19T22:57:31+00:00",
+    "hash_id": "3d620d68174b29f4",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Lead Part2, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Content": "{ Source: https://exposed.vc/, Content: SQL aub.ma, author: a href=https://exposed.vc/member.php?action=profile&uid=823xyz/a, Detection Date: 10 Jun 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 330489,
-    "timestamp": "2023-09-04T13:51:55+00:00",
-    "hash_id": "95fe042060e551c4",
+    "message_id": 278105,
+    "timestamp": "2023-06-10T13:37:13+00:00",
+    "hash_id": "cbaf39d6ad935d81",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Aub.ma, author: (frog), Detection Date: 10 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 278102,
+    "timestamp": "2023-06-10T13:37:02+00:00",
+    "hash_id": "a36ee7ca66d7c676",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 12 Aug 2023, Type: Data leak }",
+    "Content": "{ Source: https://exposed.vc/, Content: Avito.ma Database - Leaked, Download, author: a href=https://exposed.vc/member.php?action=profile&uid=5402Addka72424/a, Detection Date: 03 Jun 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 315602,
-    "timestamp": "2023-08-12T05:40:48+00:00",
-    "hash_id": "eb861450118b5b3e",
+    "message_id": 272965,
+    "timestamp": "2023-06-03T08:10:03+00:00",
+    "hash_id": "e48f0d60c6163275",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: .Ma - Url Login Password List 7Kk, author: (Chucky), Detection Date: 30 May 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 270473,
+    "timestamp": "2023-05-30T12:59:33+00:00",
+    "hash_id": "4a532d82eb698875",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://at.dublikat.club/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 30 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 250037,
+    "timestamp": "2023-04-30T13:07:24+00:00",
+    "hash_id": "1d639c1f2ee0bfe4",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 25 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 246714,
+    "timestamp": "2023-04-25T20:51:16+00:00",
+    "hash_id": "f56a505183f5a689",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 22 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 244083,
+    "timestamp": "2023-04-22T15:09:04+00:00",
+    "hash_id": "5256e26a2883dd17",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://restaurantedaeducacao.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 241825,
+    "timestamp": "2023-04-19T14:53:19+00:00",
+    "hash_id": "3cfc4c8497fcd1bb",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 05 Aug 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://negrocosme.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 311543,
-    "timestamp": "2023-08-05T13:22:55+00:00",
-    "hash_id": "b0fa3dd96511ec1d",
+    "message_id": 241824,
+    "timestamp": "2023-04-19T14:53:17+00:00",
+    "hash_id": "de6b5757e091e63f",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 20 Jul 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://www.plenas.ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 303016,
-    "timestamp": "2023-07-20T22:01:38+00:00",
-    "hash_id": "79753b77e0fe116b",
+    "message_id": 241823,
+    "timestamp": "2023-04-19T14:53:14+00:00",
+    "hash_id": "b74169da4797d462",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 12 Jun 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://vocacional.ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 279602,
-    "timestamp": "2023-06-12T16:57:15+00:00",
-    "hash_id": "49751fe32ee96dc6",
+    "message_id": 241822,
+    "timestamp": "2023-04-19T14:53:12+00:00",
+    "hash_id": "2e5f49e3775edae3",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 11 Jun 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 278858,
-    "timestamp": "2023-06-11T16:37:14+00:00",
-    "hash_id": "1281bf69661d7904",
+    "message_id": 241821,
+    "timestamp": "2023-04-19T14:53:09+00:00",
+    "hash_id": "27931a7ddcd2812a",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 07 Jun 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://contratae.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 275989,
-    "timestamp": "2023-06-07T16:50:26+00:00",
-    "hash_id": "00658700af390a41",
+    "message_id": 241820,
+    "timestamp": "2023-04-19T14:53:06+00:00",
+    "hash_id": "c260276c0a75c139",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://nohide.space/, Content: 28k Morocco, author: (Fr33_D4t4), Detection Date: 04 Jun 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.editais.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 273563,
-    "timestamp": "2023-06-04T07:29:34+00:00",
-    "hash_id": "13936b07ec53f10c",
+    "message_id": 241819,
+    "timestamp": "2023-04-19T14:53:04+00:00",
+    "hash_id": "d7bf69bf38238bba",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 10 May 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://patrimonio.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 256376,
-    "timestamp": "2023-05-10T02:33:21+00:00",
-    "hash_id": "451e128306289df0",
+    "message_id": 241818,
+    "timestamp": "2023-04-19T14:53:01+00:00",
+    "hash_id": "98cdb16ecb270f00",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://darkpro.net/, Content: Morocco Visa Debit Gold By carding forum, author: (SYCOSUNNY), Detection Date: 03 May 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://contrataae.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 252344,
-    "timestamp": "2023-05-03T21:13:26+00:00",
-    "hash_id": "2752ff740b9e147a",
+    "message_id": 241817,
+    "timestamp": "2023-04-19T14:52:59+00:00",
+    "hash_id": "d0cf406a460dd3c0",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 21 Apr 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.maranhaoprofissionalizado.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 242969,
-    "timestamp": "2023-04-21T02:52:42+00:00",
-    "hash_id": "f657d71b03d57e5c",
+    "message_id": 241816,
+    "timestamp": "2023-04-19T14:52:56+00:00",
+    "hash_id": "2cf05032efe22de4",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 09 Apr 2023, Type: Data leak }",
+    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 07 Apr 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 234595,
-    "timestamp": "2023-04-09T18:53:19+00:00",
-    "hash_id": "2771a9317dc2eaf6",
+    "message_id": 233197,
+    "timestamp": "2023-04-07T20:19:48+00:00",
+    "hash_id": "1225f50403c8c6ef",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: http://cvvboard.cc/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 06 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 232270,
+    "timestamp": "2023-04-06T17:52:15+00:00",
+    "hash_id": "605bd713bf00c620",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma, author: (Chucky), Detection Date: 01 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 228482,
+    "timestamp": "2023-04-01T12:31:20+00:00",
+    "hash_id": "a25f8d9c6d631b90",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://deeptor.ws/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 28 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 225754,
+    "timestamp": "2023-03-28T13:47:40+00:00",
+    "hash_id": "74ec68ddeeca185a",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 26 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 224748,
+    "timestamp": "2023-03-26T20:11:44+00:00",
+    "hash_id": "a514f5fb3b8c3ba2",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://crackingall.com/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: , Detection Date: 25 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 224013,
+    "timestamp": "2023-03-25T12:53:34+00:00",
+    "hash_id": "914850c87f0d1d1f",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://ascarding.com/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 22 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 222248,
+    "timestamp": "2023-03-22T18:56:20+00:00",
+    "hash_id": "249acfd1a721af27",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: leak_db, Content: http://mtedd.gov.ma/ Backup #DB #DATABASE #DELTABOYS @leak_db, author: Leaked Database 7⃣7⃣7⃣, Detection Date: 20 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 221113,
+    "timestamp": "2023-03-20T21:50:22+00:00",
+    "hash_id": "219487685a6d4516",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: leak_db, Content: https://acao.org.ma/ Database + Webshell Price : 400$ Database : Free for Users #db #database #access #webshell @leak_db, author: Leaked Database 7⃣7⃣7⃣, Detection Date: 19 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 220438,
+    "timestamp": "2023-03-19T20:51:38+00:00",
+    "hash_id": "8008627ea2ae0375",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.matnuhpv.gov.ma, author: , Detection Date: 03 Feb 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 194179,
+    "timestamp": "2023-02-03T01:10:09+00:00",
+    "hash_id": "25d1d9b4ff541ee9",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 02 Apr 2023, Type: Data leak }",
+    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://smit.gov.ma, author: , Detection Date: 18 Dec 2022, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 229316,
-    "timestamp": "2023-04-02T18:57:49+00:00",
-    "hash_id": "1abe33c2616873fa",
+    "message_id": 164873,
+    "timestamp": "2022-12-18T15:41:35+00:00",
+    "hash_id": "9e42bb346a56874b",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 28 Mar 2023, Type: Data leak }",
+    "Content": "{ Source: https:// Content: .ma.txt 431.5 kB, author: DB-MARKEET ™, Detection Date: 03 Dec 2022, Type: Data leak } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 225623,
-    "timestamp": "2023-03-28T08:20:25+00:00",
-    "hash_id": "7bd814c99f7f374b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 23 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 222723,
-    "timestamp": "2023-03-23T13:21:59+00:00",
-    "hash_id": "8bc3a0e6e7836316",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 09 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 213839,
-    "timestamp": "2023-03-09T06:20:05+00:00",
-    "hash_id": "4341f457b5555693",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 20 Feb 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 204878,
-    "timestamp": "2023-02-20T23:07:09+00:00",
-    "hash_id": "02dabedf44e0adda",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello vps with Morocco ip, author: (stripe2023), Detection Date: 09 Feb 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 197921,
-    "timestamp": "2023-02-09T00:26:38+00:00",
-    "hash_id": "eac7fd744465c7ed",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello From Morocco ^^, author: (Adnane marocco), Detection Date: 28 Jan 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 190233,
-    "timestamp": "2023-01-28T00:56:16+00:00",
-    "hash_id": "a2eff3eef9d6fd06",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Croatia vs Morocco, author: (FabioSelau), Detection Date: 12 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 160283,
-    "timestamp": "2022-12-11T23:18:01+00:00",
-    "hash_id": "21b7076221da045d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 04 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 155263,
-    "timestamp": "2022-12-04T07:45:48+00:00",
-    "hash_id": "40a981c3c7b8370d",
+    "message_id": 154789,
+    "timestamp": "2022-12-03T13:22:50+00:00",
+    "hash_id": "feb121528a422069",
     "severity": "medium"
   },
   {
@@ -837,57 +1035,21 @@
     "severity": "critical"
   },
   {
-    "Content": "{ site: Ransomware Related, Content:#Vice Society: IKEA MoroccoIKEA Kuwait #Website: #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @:”, Detection Date: 28 Nov 2022 15:02, Type: Data leak } Data Leak monitoring system",
+    "Content": "{ site: Db Market, Content: kitab.bnrm.ma”, Detection Date: 16 Oct 2022 14:51, Type: Data leak } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 151319,
-    "timestamp": "2022-11-28T14:05:19+00:00",
-    "hash_id": "79aa5c29da98d9c8",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://deeptor.ws/, Content: Morocco Master Debit Standard, author: (mongoose), Detection Date: 05 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 136603,
-    "timestamp": "2022-11-05T19:03:04+00:00",
-    "hash_id": "ab09ffa487c45ac4",
+    "message_id": 132400,
+    "timestamp": "2022-10-16T13:02:41+00:00",
+    "hash_id": "89be68e6588bc704",
     "severity": "medium"
   },
   {
-    "Content": "{ site: combolist, Threat Actor: Combo Crew, Content: 58K COMBOLIST MOROCCO FRESH”, Detection Date: 31 Aug 2022 17:40, Type: Data Leak }",
+    "Content": "{ site: Zone-H, Target: http://joaolisboa.ma.gov.br/readme.html”, Deface info:” notified by AnonSec Team” Detection Date: “15 Jul 2022 09:22”, Type: Defacement } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 127329,
-    "timestamp": "2022-08-31T15:41:54+00:00",
-    "hash_id": "0c00cdee71cae07c",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: bhf.io, Threat Actor: Maalz, Content: base Morocco”, Detection Date: 31 Dec 2021 18:10, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 27100,
-    "timestamp": "2021-12-31T17:21:28+00:00",
-    "hash_id": "1b04d813f5377a3a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: RaidForums, Threat Actor: [Eslebe Hitler](https://raidforums.com/member.php?action=profile&uid=122077896), Content: Morocco.2021. LinkedIn. Quantity 2,064,201”, Detection Date: “04 Sep 2021 22:52”, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 3330,
-    "timestamp": "2021-09-04T21:36:25+00:00",
-    "hash_id": "60f5be1606405e65",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: FNBTP Maroc ( Maghreb ) DB !, author: a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a, Detection Date: 08 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 805657,
-    "timestamp": "2025-07-08T21:32:37+00:00",
-    "hash_id": "9c5cabc5a6a91ae5",
+    "message_id": 111222,
+    "timestamp": "2022-07-15T07:43:41+00:00",
+    "hash_id": "fdac4d7df43f0b15",
     "severity": "medium"
   },
   {
@@ -916,6 +1078,15 @@
     "timestamp": "2025-07-09T12:41:27+00:00",
     "hash_id": "79144a280f14de6f",
     "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco (PMMP) Moroccan government for public procurement Full Database Breached, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 05 Jul 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 802545,
+    "timestamp": "2025-07-04T23:37:53+00:00",
+    "hash_id": "d552a595fd1b9b45",
+    "severity": "critical"
   },
   {
     "Content": "{ Source: Leakbase[.]la, Content: DATABASE LEAK : Moroccan National Social Security Fund, author: (Deleted member 115303), Detection Date: 27 Jun 2025, Type: Data leak }",
@@ -1404,1452 +1575,813 @@
     "severity": "critical"
   },
   {
-    "Content": "{ Source: Darkforums[.]st, Content: hacked website : www.cromc.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 10 Jul 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco - Ministry of Education, author: a href=https://darkforums.st/member.php?action=profile&uid=1523Tanaka/a, Detection Date: 15 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 806931,
-    "timestamp": "2025-07-10T12:25:08+00:00",
-    "hash_id": "c3c97a3cfacf79b7",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: joutech.ma Database, author: a href=https://darkforums.st/member.php?action=profile&uid=7445RL000/a, Detection Date: 08 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 805450,
-    "timestamp": "2025-07-08T15:39:00+00:00",
-    "hash_id": "6a33c14470ca72ec",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: inwi telecom inwi.ma DataBase, author: a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a, Detection Date: 05 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 803281,
-    "timestamp": "2025-07-05T22:03:35+00:00",
-    "hash_id": "450805e63a0cbe3b",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Leakbase[.]la, Content: [2025] [Brazil] [ 500k of 2M] Maranhão Vehicle Db - DETRAN/MA Records, author: (Anonnomy), Detection Date: 03 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 801358,
-    "timestamp": "2025-07-03T14:04:17+00:00",
-    "hash_id": "2479b7ad6a142bb1",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: hacked website : enssup.gov.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 01 Jul 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 799857,
-    "timestamp": "2025-07-01T16:48:36+00:00",
-    "hash_id": "0e86988a14c1c234",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: hacked website : Culture.ma, author: a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a, Detection Date: 28 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 797395,
-    "timestamp": "2025-06-28T14:10:54+00:00",
-    "hash_id": "f6c260bd6e020d1d",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Leakbase[.]la, Content: [2025] [Brazil] [ 500k of 2M] Maranhão Vehicle Db - DETRAN/MA Records, author: (adventurekelly), Detection Date: 26 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 795647,
-    "timestamp": "2025-06-26T12:16:54+00:00",
-    "hash_id": "0522ca37f7b72d8b",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Leakbase[.]la, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 788510,
-    "timestamp": "2025-06-17T02:21:36+00:00",
-    "hash_id": "fdb3aa06e04cc063",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: webmail.menara.ma Web Mail access, author: a href=https://darkforums.st/member.php?action=profile&uid=21939mrdump/a, Detection Date: 14 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 786019,
-    "timestamp": "2025-06-14T00:08:25+00:00",
-    "hash_id": "6a8271d7f64c99c7",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Leakbase[.]la, Content: [2025] [Brazil] [ 500k of 2M] Maranhão Vehicle Db - DETRAN/MA Records, author: (Anonnomy), Detection Date: 10 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 783445,
-    "timestamp": "2025-06-10T14:48:55+00:00",
-    "hash_id": "dae7c332e541acea",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Crédit Populaire d’Algérie (CPA), author: a href=https://darkforums.st/member.php?action=profile&uid=20220TajineSec_MA/a, Detection Date: 08 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 781980,
-    "timestamp": "2025-06-08T13:21:41+00:00",
-    "hash_id": "9a5b66b785aea48e",
+    "message_id": 811198,
+    "timestamp": "2025-07-15T20:40:39+00:00",
+    "hash_id": "efa30be80c9841aa",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.la/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 22 May 2025, Type: Data leak }",
+    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 15 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 770039,
-    "timestamp": "2025-05-22T15:12:08+00:00",
-    "hash_id": "3ace3b8c42fcd8c5",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://crackingx.com/, Content: [1.853 lines] ☣️taalim.ma 11-04-25, author: (BestCombo), Detection Date: 17 May 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 766741,
-    "timestamp": "2025-05-17T08:57:42+00:00",
-    "hash_id": "0d3bf95f30db7167",
+    "message_id": 811157,
+    "timestamp": "2025-07-15T19:52:22+00:00",
+    "hash_id": "dd5d692dc17590ef",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://saojosedosbasilios.ma.gov.br/0x.txt, author: , Detection Date: 29 Apr 2025, Type: Data leak }",
+    "Content": "{ Source: https://niflheim.top/, Content: Fresh Valid MOROCCO Combolists, author: (ComboPoster), Detection Date: 15 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 756143,
-    "timestamp": "2025-04-29T16:43:27+00:00",
-    "hash_id": "7db96e4201f45b86",
+    "message_id": 811156,
+    "timestamp": "2025-07-15T19:52:21+00:00",
+    "hash_id": "10f167ba97553e88",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://cmpauloramos.ma.gov.br/vzz.txt, author: , Detection Date: 23 Apr 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: avito morocco.csv, author: a href=https://darkforums.st/member.php?action=profile&uid=24870izeeenn27/a, Detection Date: 15 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 751500,
-    "timestamp": "2025-04-23T13:24:35+00:00",
-    "hash_id": "577641bd6b695083",
+    "message_id": 810891,
+    "timestamp": "2025-07-15T12:18:12+00:00",
+    "hash_id": "99054ac6aae11265",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 14 Apr 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: [MOROCCO] Student data in the Ministry of Education, author: a href=https://darkforums.st/member.php?action=profile&uid=8214bxxxx1/a, Detection Date: 08 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 744405,
-    "timestamp": "2025-04-14T06:59:47+00:00",
-    "hash_id": "d0e3fec470647777",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 14 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 744404,
-    "timestamp": "2025-04-14T06:19:48+00:00",
-    "hash_id": "a2bf1607c60526db",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 12 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 743139,
-    "timestamp": "2025-04-12T12:16:55+00:00",
-    "hash_id": "d5c387a4b43a895c",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 12 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 743127,
-    "timestamp": "2025-04-12T12:12:23+00:00",
-    "hash_id": "6b70b5975d2fa31c",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://sigep.detran.ma.gov.br/index.html.old, author: , Detection Date: 04 Apr 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 737659,
-    "timestamp": "2025-04-04T16:25:59+00:00",
-    "hash_id": "54907b5ec756c195",
+    "message_id": 805452,
+    "timestamp": "2025-07-08T15:39:02+00:00",
+    "hash_id": "fd0307b5852d8cbd",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 28 Mar 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: 135K Morocco UHQ Combolist, author: a href=https://darkforums.st/member.php?action=profile&uid=20308SYCOSUNNY/a, Detection Date: 07 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 732645,
-    "timestamp": "2025-03-28T11:44:45+00:00",
-    "hash_id": "48eb6dce37bc7043",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 28 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 732641,
-    "timestamp": "2025-03-28T11:40:29+00:00",
-    "hash_id": "1d98fabcb2ea5b33",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello, nice to know the forum., author: (MA AGENCY), Detection Date: 26 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 731405,
-    "timestamp": "2025-03-26T17:52:56+00:00",
-    "hash_id": "ce2430d2fa1d7274",
+    "message_id": 804802,
+    "timestamp": "2025-07-07T21:09:04+00:00",
+    "hash_id": "aba6e5f35c9a3616",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://sinister.ly/, Content: I ma new here, author: a href=https://sinister.ly/member.php?action=profile&uid=284540Kkkforeva/a, Detection Date: 26 Mar 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco-CNSS App Fully Decrypted – Static Analysis & All Security Layers Bypassed, author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 05 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 731081,
-    "timestamp": "2025-03-26T06:55:31+00:00",
-    "hash_id": "b61c1c5f11f279b5",
+    "message_id": 802832,
+    "timestamp": "2025-07-05T08:52:26+00:00",
+    "hash_id": "cd01d0059d04b101",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Mar 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco social insurance. April DB, author: a href=https://darkforums.st/member.php?action=profile&uid=22879Leonsky/a, Detection Date: 04 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 723832,
-    "timestamp": "2025-03-17T06:52:27+00:00",
-    "hash_id": "b89b5d11263e8576",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 17 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 723826,
-    "timestamp": "2025-03-17T06:32:40+00:00",
-    "hash_id": "dc5c0bcd4a4fd7c0",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Aub.ma, author: (frog), Detection Date: 11 Mar 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 719724,
-    "timestamp": "2025-03-11T20:17:00+00:00",
-    "hash_id": "1df7f8fd9ac7fcea",
+    "message_id": 801942,
+    "timestamp": "2025-07-04T07:37:35+00:00",
+    "hash_id": "057cc202718c69dc",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 19 Feb 2025, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - MarsaMaroc database sample -fullname + emails ( no passwords ), author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 01 Jul 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 705062,
-    "timestamp": "2025-02-19T18:31:12+00:00",
-    "hash_id": "19519a7e2ce320d9",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 19 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 705040,
-    "timestamp": "2025-02-19T17:59:08+00:00",
-    "hash_id": "173e15ef365f7bbf",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Victim: askgsma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __8a86391c913aaab6191926cb2bd0b328cf5ddc28954fe2b7e0e54d62b787a01f__ Target victim : __askgs.ma__”, Detection Date: 12 Feb 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 700131,
-    "timestamp": "2025-02-12T14:04:50+00:00",
-    "hash_id": "cf05148022c90644",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: acao.org.ma, author: (jorma), Detection Date: 05 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 694997,
-    "timestamp": "2025-02-05T01:55:08+00:00",
-    "hash_id": "8acd83e47dea0bdf",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: acao.org.ma, author: (jorma), Detection Date: 05 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 694990,
-    "timestamp": "2025-02-05T01:28:58+00:00",
-    "hash_id": "a015972ac4be708b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://ae.gov.ma, author: , Detection Date: 04 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 694866,
-    "timestamp": "2025-02-04T21:42:41+00:00",
-    "hash_id": "6f7a23a484ec350c",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Feb 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 692675,
-    "timestamp": "2025-02-01T12:58:56+00:00",
-    "hash_id": "3a7e92de43036588",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Victim: wwwusmbaacma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __d8c9f41d9b90fafdb3590898dcf1bad776c1b4eb4b8243a6c0cd552750039b5e__ Target victim : __www.usmba.ac.ma__”, Detection Date: 24 Jan 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 687636,
-    "timestamp": "2025-01-24T20:49:42+00:00",
-    "hash_id": "c81376cbb349688e",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 04 Jan 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 673964,
-    "timestamp": "2025-01-04T01:46:48+00:00",
-    "hash_id": "def032d46ea3fb09",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 04 Jan 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 673959,
-    "timestamp": "2025-01-04T01:24:48+00:00",
-    "hash_id": "c6975c19be4b07c3",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: http://honda.ma, author: , Detection Date: 02 Jan 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 673065,
-    "timestamp": "2025-01-02T17:26:03+00:00",
-    "hash_id": "11a19a2e72f7394c",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Victim: Watertown-Public-Schools, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __ff085770cb2d9908464cd8208f88101f04acd2a91a88de49a07b42126755f0f2__ Target victim : __watertown.k12.ma.us__”, Detection Date: 28 Dec 2024, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 669997,
-    "timestamp": "2024-12-28T16:39:48+00:00",
-    "hash_id": "eddf549650995420",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://crackingx.com/, Content: The scammer also ma..., author: (nooneyt4), Detection Date: 27 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 669193,
-    "timestamp": "2024-12-27T09:54:02+00:00",
-    "hash_id": "3803bfb2209decc5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Caoimbase Account With Balance Hq + Ma !, author: (giveawaypc), Detection Date: 23 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 666886,
-    "timestamp": "2024-12-23T17:11:44+00:00",
-    "hash_id": "e8283f9f2ebace54",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Help! Wheres wtb, author: (Mr Ma), Detection Date: 17 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 662839,
-    "timestamp": "2024-12-17T09:02:49+00:00",
-    "hash_id": "a315450677cabb3a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Caoimbase Account With Balance Hq + Ma !, author: (giveawaypc), Detection Date: 11 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 659218,
-    "timestamp": "2024-12-11T16:38:27+00:00",
-    "hash_id": "b021964404ac0177",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 08 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 657444,
-    "timestamp": "2024-12-08T21:58:27+00:00",
-    "hash_id": "95a4310dc7ff9813",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 08 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 657438,
-    "timestamp": "2024-12-08T21:46:12+00:00",
-    "hash_id": "347eacebe0813c6b",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Coinbase Account With Balance Hq + Ma!, author: (giveawaypc), Detection Date: 08 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 657174,
-    "timestamp": "2024-12-08T12:34:13+00:00",
-    "hash_id": "f2d5dcc0d05071d0",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 652487,
-    "timestamp": "2024-12-01T03:15:04+00:00",
-    "hash_id": "2b1e691038167342",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 01 Dec 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 652472,
-    "timestamp": "2024-12-01T03:00:57+00:00",
-    "hash_id": "7e47c35e9c2be9d1",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://sinister.ly/, Content: Dis ma Intro Thread, author: a href=https://sinister.ly/member.php?action=profile&uid=279871Nalla/a, Detection Date: 21 Nov 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 646447,
-    "timestamp": "2024-11-21T09:29:31+00:00",
-    "hash_id": "835b4267a3ffab50",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.io/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 19 Nov 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 645387,
-    "timestamp": "2024-11-19T18:18:16+00:00",
-    "hash_id": "c7fc679536df1f9a",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 19 Nov 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 645372,
-    "timestamp": "2024-11-19T17:56:00+00:00",
-    "hash_id": "46a632c990e350aa",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Ce Shi Yi Xia Neng Fa Tie Ma, author: (fdsafsadfadsf), Detection Date: 29 Oct 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 632491,
-    "timestamp": "2024-10-29T14:05:38+00:00",
-    "hash_id": "55479e20c8d2cb24",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 29 Oct 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 632352,
-    "timestamp": "2024-10-29T08:11:58+00:00",
-    "hash_id": "165e7e5317975320",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 18 Aug 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 592286,
-    "timestamp": "2024-08-18T12:13:44+00:00",
-    "hash_id": "404923af274e90a1",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 11 Aug 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 588697,
-    "timestamp": "2024-08-11T21:48:20+00:00",
-    "hash_id": "043b41f61ea65e6a",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: Jane Birkin - La Femme De Ma Vie (1986)720p, author: (Pikcher11), Detection Date: 11 Aug 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 588398,
-    "timestamp": "2024-08-11T10:00:07+00:00",
-    "hash_id": "76e95b485c808b14",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 02 Aug 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 583730,
-    "timestamp": "2024-08-02T16:47:27+00:00",
-    "hash_id": "89bf8b29e5d01640",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 30 Jul 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 581991,
-    "timestamp": "2024-07-30T16:15:00+00:00",
-    "hash_id": "b2e01db84cf07c6f",
+    "message_id": 799510,
+    "timestamp": "2025-07-01T06:43:28+00:00",
+    "hash_id": "b1281178ac7f00d9",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma, author: (BINDECH), Detection Date: 29 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco [CNOPS Morocco – Employee Names + CIN + CNI (Sensitive Docs)], author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 30 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 581499,
-    "timestamp": "2024-07-29T19:10:28+00:00",
-    "hash_id": "42d828f40ede37e5",
+    "message_id": 798634,
+    "timestamp": "2025-06-30T05:32:45+00:00",
+    "hash_id": "1da4c072c85ad26e",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: Leak db of the Embassy of Djibouti in Morocco, author: a href=https://darkforums.st/member.php?action=profile&uid=25680Doxeur23azi/a, Detection Date: 29 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 798084,
+    "timestamp": "2025-06-29T12:45:39+00:00",
+    "hash_id": "dc868d70b27e673b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - [Potential Internal Document Leak – SOTHEMA], author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 27 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 796658,
+    "timestamp": "2025-06-27T16:35:08+00:00",
+    "hash_id": "3e440b8f17962be6",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - Potential Internal Document Leak – SOTHEMA, author: a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a, Detection Date: 27 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 796656,
+    "timestamp": "2025-06-27T16:35:03+00:00",
+    "hash_id": "d67f5e07850d4deb",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco clinic system database, author: a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a, Detection Date: 27 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 796048,
+    "timestamp": "2025-06-26T22:59:35+00:00",
+    "hash_id": "1c70f2b8cfb4f141",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://crackingx.com/, Content: Caoimbase Account With Balance Hq + MA !, author: (swistak2321), Detection Date: 21 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Football federation morocco Leak, author: a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a, Detection Date: 19 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 577044,
-    "timestamp": "2024-07-21T18:50:34+00:00",
-    "hash_id": "cb7e2b8aaf816a6b",
+    "message_id": 790068,
+    "timestamp": "2025-06-19T03:16:25+00:00",
+    "hash_id": "72929143dcc23cc2",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 12 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: https://darknetarmy.com/, Content: HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47, author: (slender47), Detection Date: 15 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 571696,
-    "timestamp": "2024-07-12T04:03:24+00:00",
-    "hash_id": "866d8f7832c27cf6",
+    "message_id": 787108,
+    "timestamp": "2025-06-15T08:14:52+00:00",
+    "hash_id": "7bf605d0390523dc",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Ima virgin an I wanna be a million air, author: (thesmallpenisman), Detection Date: 03 Jul 2024, Type: Data leak }",
+    "Content": "{ Source: https://darknetarmy.com/, Content: DATA 2025/06/14 MOROCCO (MGPTT) – Mutuelle Générale des Postes et Télécommunications-by slanderman47, author: (slender47), Detection Date: 15 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 564498,
-    "timestamp": "2024-07-03T04:11:31+00:00",
-    "hash_id": "0df5ada72909c239",
+    "message_id": 787105,
+    "timestamp": "2025-06-15T08:14:49+00:00",
+    "hash_id": "ab2ccb5a42c93b2e",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://crackingx.com/, Content: 156.153 [ma] Good for Shopping Target, author: (AiCombo), Detection Date: 23 Jun 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: DATA 2025/06/14 MOROCCO (MGPTT) – Mutuelle Générale des Postes et Télécommunications-, author: a href=https://darkforums.st/member.php?action=profile&uid=22150ONIONFAR47/a, Detection Date: 15 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 556461,
-    "timestamp": "2024-06-23T02:30:18+00:00",
-    "hash_id": "d3187b74591d1f06",
+    "message_id": 786903,
+    "timestamp": "2025-06-15T01:19:59+00:00",
+    "hash_id": "0463fd78a027a40e",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://www.arari.ma.gov.br/vz.txt, author: , Detection Date: 19 Jun 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47, author: a href=https://darkforums.st/member.php?action=profile&uid=17892robindoe/a, Detection Date: 14 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 553142,
-    "timestamp": "2024-06-19T02:48:35+00:00",
-    "hash_id": "1ae600c8218d5ee0",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Why are these websites rankings rising so quickly?, author: (pony ma), Detection Date: 12 Jun 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 547669,
-    "timestamp": "2024-06-12T10:15:45+00:00",
-    "hash_id": "ec24ec09d167d471",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: agency ad accounts for all ads platforms, author: (ma jhon), Detection Date: 01 Jun 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 539175,
-    "timestamp": "2024-06-01T14:12:52+00:00",
-    "hash_id": "3e5a28ac69ee39e7",
+    "message_id": 786760,
+    "timestamp": "2025-06-14T21:05:58+00:00",
+    "hash_id": "84b53fd989481fa0",
     "severity": "high"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 26 May 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASE, author: a href=https://darkforums.st/member.php?action=profile&uid=3903Ayiemedia/a, Detection Date: 14 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 533675,
-    "timestamp": "2024-05-26T02:13:39+00:00",
-    "hash_id": "990ee24598e74222",
+    "message_id": 786356,
+    "timestamp": "2025-06-14T11:00:59+00:00",
+    "hash_id": "b5aa914c31e41ffe",
     "severity": "high"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: usa.gov - USA Business & Investor Database.rar 1.5 GB AQSh investorlari va ishbilarmonlari malumotlar bazasi🤩, author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 12 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528189,
-    "timestamp": "2024-05-20T02:48:30+00:00",
-    "hash_id": "cd2639a90494e185",
+    "message_id": 785054,
+    "timestamp": "2025-06-12T17:06:10+00:00",
+    "hash_id": "98a8d3e8d5729309",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) [this wont be deleted], author: a href=https://darkforums.st/member.php?action=profile&uid=6231DrXFred0x/a, Detection Date: 04 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 779185,
+    "timestamp": "2025-06-04T18:43:33+00:00",
+    "hash_id": "759988365c182cc2",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC), author: a href=https://darkforums.st/member.php?action=profile&uid=18545beta/a, Detection Date: 04 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 778999,
+    "timestamp": "2025-06-04T12:51:41+00:00",
+    "hash_id": "f90c658a5c7d347c",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco Websites data leaked for free download, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 03 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 778305,
+    "timestamp": "2025-06-03T14:59:50+00:00",
+    "hash_id": "99c7d87f89595be7",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: Darkforums[.]st, Content: MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASES, author: a href=https://darkforums.st/member.php?action=profile&uid=17400Jabaroot/a, Detection Date: 02 Jun 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 777419,
+    "timestamp": "2025-06-02T11:36:45+00:00",
+    "hash_id": "9c7e54d3ecb4117f",
     "severity": "high"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: 21.000 FULLZ USA NY.xlsx 3.1 MB (Plagiat uchun) 21 000 haqiqiy amerikalik shaxslar Malumot: Toliq ism, elektron pochta, telefon raqami, shahar, kocha, pochta indeksi ... va hokazo (Excel Fayl), author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Football federation morocco ftp server data leak Free download!, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 02 Jun 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528188,
-    "timestamp": "2024-05-20T02:48:29+00:00",
-    "hash_id": "977fa769dc66bcd1",
+    "message_id": 777072,
+    "timestamp": "2025-06-01T23:04:00+00:00",
+    "hash_id": "ede720f05d47d2b5",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: uk.zip 308.6 MB 11,522,328 Birlashgan Qirollik(UK) dagi odamlarning Facebook hisoblari va boshqa malumotlar, author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: Darkforums[.]st, Content: Morocco Senstive information Leaked Free Download, author: a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a, Detection Date: 29 May 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528187,
-    "timestamp": "2024-05-20T02:48:28+00:00",
-    "hash_id": "77f8dd5ed2364dfe",
+    "message_id": 774752,
+    "timestamp": "2025-05-29T20:24:55+00:00",
+    "hash_id": "32391fe720a0827e",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: UK.zip 308.6 MB 🇬🇧 Birlashagan qirollik ( UK) - 11 522 328 Ghost harbiy kuchlari malumotlari #AnonGhost #AnonghostID #ghostsec, author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://darknetarmy.com/, Content: Morocco Ministry of National Land Use Planning Leaked Free Download, author: (B4ba Yega), Detection Date: 16 May 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528186,
-    "timestamp": "2024-05-20T02:48:26+00:00",
-    "hash_id": "da4895511ef230c7",
+    "message_id": 765917,
+    "timestamp": "2025-05-16T05:11:43+00:00",
+    "hash_id": "a922c276c2fff3ea",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: IsraepolicePhoneNumber.csv 35.9 MB Isroil militsiyasi malumotlar bazasidagi telefon raqamlar 🔥 (Tartibsiz yozildi buning uchun uzur soraymiz), author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Im Moving to Morocco, author: (BassTrackerBoats), Detection Date: 28 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528185,
-    "timestamp": "2024-05-20T02:48:25+00:00",
-    "hash_id": "8a93e53829d5ab66",
+    "message_id": 755087,
+    "timestamp": "2025-04-28T07:04:06+00:00",
+    "hash_id": "f0b9a85513b117ee",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: Shanghai Gov National Police.tar.gz 108.0 MB SHANXAY MILLIY POLITSIYA malumotlariga Buzib kirilishi 😆, author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Im Moving to Morocco, author: (BassTrackerBoats), Detection Date: 18 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528184,
-    "timestamp": "2024-05-20T02:48:24+00:00",
-    "hash_id": "7a82b47c2976a302",
+    "message_id": 747938,
+    "timestamp": "2025-04-18T18:04:02+00:00",
+    "hash_id": "5fb093bcf647bf5f",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: AnonymousEgypt, Content: Mexico City 11.4M Citizens Database.txt 1.4 GB Mexiko city 11,4M Fuqarolar malumotlar bazasi Mexiko city . bu faylda mexico cityda yashovchi odamlar haqida 11 482 760 qator malumotlar mavjud. Malumotlarga quyidagilar kiradi: Saylovchilar identifikatori, toliq ism, DOB va toliq manzil. (TXT), author: Anonymous Egypt, Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://niflheim.top/, Content: 50K MOROCCO High Quality Private Combolist, author: (ComboPoster), Detection Date: 09 Apr 2025, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528183,
-    "timestamp": "2024-05-20T02:48:22+00:00",
-    "hash_id": "6bf6f6a21fc812ab",
+    "message_id": 741113,
+    "timestamp": "2025-04-09T15:11:33+00:00",
+    "hash_id": "6ea35953e7eef143",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://crackingx.com/, Content: MOROCCO COMBO, author: (CODER), Detection Date: 15 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 722670,
+    "timestamp": "2025-03-15T14:07:12+00:00",
+    "hash_id": "c4181571f840d44b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 40K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 27 -2 -2025 ], author: (ComboPoster), Detection Date: 07 Mar 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 716355,
+    "timestamp": "2025-03-07T12:12:23+00:00",
+    "hash_id": "675a5fcb8aa384ae",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 40K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 27 -2 -2025 ], author: (ComboPoster), Detection Date: 27 Feb 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 710362,
+    "timestamp": "2025-02-27T08:07:13+00:00",
+    "hash_id": "29ff25dd57245268",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 41K - Morocco || EMAIL:PASS || FRESH || UHQ || [ 23 -2 -2025 ], author: (ComboPoster), Detection Date: 23 Feb 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 707409,
+    "timestamp": "2025-02-23T03:08:19+00:00",
+    "hash_id": "c7071823be8f8bc5",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 14 Feb 2025, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 701392,
+    "timestamp": "2025-02-14T10:34:49+00:00",
+    "hash_id": "483c66ec4d640328",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 21 Dec 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 665417,
+    "timestamp": "2024-12-21T09:03:14+00:00",
+    "hash_id": "1088f74d277c2f0b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 29 Sep 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 615690,
+    "timestamp": "2024-09-29T13:10:31+00:00",
+    "hash_id": "013d5f438a8a5baf",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: I need eBay accounts for Morocco, Ukraine, Turkey, Thailand, Japan and Israel., author: (firstgun), Detection Date: 23 Sep 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 612297,
+    "timestamp": "2024-09-23T08:10:51+00:00",
+    "hash_id": "22b9ce9353c49faf",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 10 Sep 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 605110,
+    "timestamp": "2024-09-10T15:12:22+00:00",
+    "hash_id": "468899cf0a837b58",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Sports Websites from UAE, Saudi Arabia, Morocco, Egypt, and Kuwait, author: (Arooj Imran), Detection Date: 08 Aug 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 586818,
+    "timestamp": "2024-08-08T11:14:10+00:00",
+    "hash_id": "cd5c0d01eab3d08e",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://sinister.ly/, Content: Morocco SE, author: a href=https://sinister.ly/member.php?action=profile&uid=259457ayzrefund/a, Detection Date: 17 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 574398,
+    "timestamp": "2024-07-16T22:30:21+00:00",
+    "hash_id": "a0d573097129c919",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 09 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 569856,
+    "timestamp": "2024-07-09T15:35:44+00:00",
+    "hash_id": "ade4660441e584d7",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello guys im an entity from morocco, i have access to all replica watches and high brand clone market , highest quality and on budget., author: (96entity), Detection Date: 06 Jul 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 567352,
+    "timestamp": "2024-07-06T17:20:26+00:00",
+    "hash_id": "4b74a6a35ca07835",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 14 Jun 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 549284,
+    "timestamp": "2024-06-14T09:16:08+00:00",
+    "hash_id": "5fd7bba00197a346",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: 158K Morocco Private Uhq Combolist, author: (dodakiraa), Detection Date: 14 Jun 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 549210,
+    "timestamp": "2024-06-14T07:09:06+00:00",
+    "hash_id": "b5054ccb7ace55eb",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 04 Jun 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 541850,
+    "timestamp": "2024-06-04T21:50:29+00:00",
+    "hash_id": "186e3d9cac32bef2",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Ecommerce in Morocco, author: (winas), Detection Date: 14 May 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 523368,
+    "timestamp": "2024-05-14T18:21:21+00:00",
+    "hash_id": "4a15e90256ad2e59",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: ✨ 156k MOROCCO COMBO ✨ FRESH ✅ UHQ ✅ APRIL 2024, author: (ComboPoster), Detection Date: 13 Apr 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 494904,
+    "timestamp": "2024-04-13T10:37:59+00:00",
+    "hash_id": "209d48ab172396a3",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 10 Apr 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 492570,
+    "timestamp": "2024-04-10T18:15:10+00:00",
+    "hash_id": "4380f63dbf8afb8f",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: 158K Morocco Private UHQ Combolist, author: (ComboPoster), Detection Date: 23 Mar 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 476109,
+    "timestamp": "2024-03-23T00:05:22+00:00",
+    "hash_id": "ec476756cfe82bde",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: 158K Morocco Private Uhq Combolist, author: (dodakiraa), Detection Date: 23 Mar 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 476078,
+    "timestamp": "2024-03-22T23:39:24+00:00",
+    "hash_id": "e9bae9bfad6db4aa",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: SCRIPT BLS SPAIN MOROCCO, author: (younesse211), Detection Date: 22 Feb 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 449544,
+    "timestamp": "2024-02-22T00:17:51+00:00",
+    "hash_id": "06443fdff7febdb3",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: ebay Morocco, author: (vectoorchez), Detection Date: 21 Jan 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 425539,
+    "timestamp": "2024-01-21T03:48:17+00:00",
+    "hash_id": "9712b11e5750b57a",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 08 Jan 2024, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 416539,
+    "timestamp": "2024-01-08T18:57:26+00:00",
+    "hash_id": "fb9d9bd346bc71bd",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Lead Part2, author: (drudown500), Detection Date: 05 Dec 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 393004,
+    "timestamp": "2023-12-05T01:23:04+00:00",
+    "hash_id": "1a05ea5fc99d739f",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: Database Morocco, author: , Detection Date: 16 Nov 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 379960,
+    "timestamp": "2023-11-16T15:50:38+00:00",
+    "hash_id": "76936f0bfb54a852",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 20 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: Database Morocco | BreachForums, author: , Detection Date: 16 Nov 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 528102,
-    "timestamp": "2024-05-20T00:16:03+00:00",
-    "hash_id": "2ff648fdbf6ef7f8",
+    "message_id": 379959,
+    "timestamp": "2023-11-16T15:50:37+00:00",
+    "hash_id": "263378417ef19beb",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: Breachforums/, Content: adidas.co.ma 62,672, author: , Detection Date: 13 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: WTB Morocco Static IP, author: (Carlods99), Detection Date: 25 Oct 2023, Type: Data leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 522333,
-    "timestamp": "2024-05-13T14:49:26+00:00",
-    "hash_id": "11d717d1a6d893ea",
+    "message_id": 366541,
+    "timestamp": "2023-10-25T08:01:53+00:00",
+    "hash_id": "dcdb34bdab6740c6",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 06 Oct 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 353056,
+    "timestamp": "2023-10-06T00:53:22+00:00",
+    "hash_id": "9f10009833b67bcd",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: please pray for morocco, author: (ownes), Detection Date: 13 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 337682,
+    "timestamp": "2023-09-13T19:40:32+00:00",
+    "hash_id": "4adc324b3e351020",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://niflheim.top/, Content: Morocco (2) Combo, author: (ComboPoster), Detection Date: 09 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 333975,
+    "timestamp": "2023-09-09T00:03:10+00:00",
+    "hash_id": "1253f6ed5cfeff44",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Business Leads Part3, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 330517,
+    "timestamp": "2023-09-04T14:13:55+00:00",
+    "hash_id": "84d728ec94cb9704",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Leads, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 330491,
+    "timestamp": "2023-09-04T13:52:06+00:00",
+    "hash_id": "ed7b3939c8c32008",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://leakbase.cc/, Content: Morocco Lead Part2, author: (drudown500), Detection Date: 04 Sep 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 330489,
+    "timestamp": "2023-09-04T13:51:55+00:00",
+    "hash_id": "95fe042060e551c4",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 12 Aug 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 315602,
+    "timestamp": "2023-08-12T05:40:48+00:00",
+    "hash_id": "eb861450118b5b3e",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 05 Aug 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 311543,
+    "timestamp": "2023-08-05T13:22:55+00:00",
+    "hash_id": "b0fa3dd96511ec1d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 20 Jul 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 303016,
+    "timestamp": "2023-07-20T22:01:38+00:00",
+    "hash_id": "79753b77e0fe116b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 12 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 279602,
+    "timestamp": "2023-06-12T16:57:15+00:00",
+    "hash_id": "49751fe32ee96dc6",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 11 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 278858,
+    "timestamp": "2023-06-11T16:37:14+00:00",
+    "hash_id": "1281bf69661d7904",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 07 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 275989,
+    "timestamp": "2023-06-07T16:50:26+00:00",
+    "hash_id": "00658700af390a41",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://nohide.space/, Content: 28k Morocco, author: (Fr33_D4t4), Detection Date: 04 Jun 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 273563,
+    "timestamp": "2023-06-04T07:29:34+00:00",
+    "hash_id": "13936b07ec53f10c",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 10 May 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 256376,
+    "timestamp": "2023-05-10T02:33:21+00:00",
+    "hash_id": "451e128306289df0",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://darkpro.net/, Content: Morocco Visa Debit Gold By carding forum, author: (SYCOSUNNY), Detection Date: 03 May 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 252344,
+    "timestamp": "2023-05-03T21:13:26+00:00",
+    "hash_id": "2752ff740b9e147a",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 21 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 242969,
+    "timestamp": "2023-04-21T02:52:42+00:00",
+    "hash_id": "f657d71b03d57e5c",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 09 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 234595,
+    "timestamp": "2023-04-09T18:53:19+00:00",
+    "hash_id": "2771a9317dc2eaf6",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 02 Apr 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 229316,
+    "timestamp": "2023-04-02T18:57:49+00:00",
+    "hash_id": "1abe33c2616873fa",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 28 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 225623,
+    "timestamp": "2023-03-28T08:20:25+00:00",
+    "hash_id": "7bd814c99f7f374b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 23 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 222723,
+    "timestamp": "2023-03-23T13:21:59+00:00",
+    "hash_id": "8bc3a0e6e7836316",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 09 Mar 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 213839,
+    "timestamp": "2023-03-09T06:20:05+00:00",
+    "hash_id": "4341f457b5555693",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 20 Feb 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 204878,
+    "timestamp": "2023-02-20T23:07:09+00:00",
+    "hash_id": "02dabedf44e0adda",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello vps with Morocco ip, author: (stripe2023), Detection Date: 09 Feb 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 197921,
+    "timestamp": "2023-02-09T00:26:38+00:00",
+    "hash_id": "eac7fd744465c7ed",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Hello From Morocco ^^, author: (Adnane marocco), Detection Date: 28 Jan 2023, Type: Data leak }",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 190233,
+    "timestamp": "2023-01-28T00:56:16+00:00",
+    "hash_id": "a2eff3eef9d6fd06",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Croatia vs Morocco, author: (FabioSelau), Detection Date: 12 Dec 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 160283,
+    "timestamp": "2022-12-11T23:18:01+00:00",
+    "hash_id": "21b7076221da045d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 04 Dec 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 155263,
+    "timestamp": "2022-12-04T07:45:48+00:00",
+    "hash_id": "40a981c3c7b8370d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Ransomware Related, Content:#Vice Society: IKEA MoroccoIKEA Kuwait #Website: #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @:”, Detection Date: 28 Nov 2022 15:02, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 151319,
+    "timestamp": "2022-11-28T14:05:19+00:00",
+    "hash_id": "79aa5c29da98d9c8",
     "severity": "critical"
   },
   {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: http://asv.limacampos.ma.gov.br/cl.html, author: , Detection Date: 01 May 2024, Type: Data leak }",
+    "Content": "{ Source: https://deeptor.ws/, Content: Morocco Master Debit Standard, author: (mongoose), Detection Date: 05 Nov 2022, Type: Data leak } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 511467,
-    "timestamp": "2024-05-01T17:12:25+00:00",
-    "hash_id": "9aac8e83598dbab8",
+    "message_id": 136603,
+    "timestamp": "2022-11-05T19:03:04+00:00",
+    "hash_id": "ab09ffa487c45ac4",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: Caoimbase Account With Balance Hq + MA !, author: (hannibal2003), Detection Date: 21 Apr 2024, Type: Data leak }",
+    "Content": "{ site: combolist, Threat Actor: Combo Crew, Content: 58K COMBOLIST MOROCCO FRESH”, Detection Date: 31 Aug 2022 17:40, Type: Data Leak }",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 502212,
-    "timestamp": "2024-04-21T15:25:21+00:00",
-    "hash_id": "49958db1870ee2dd",
+    "message_id": 127329,
+    "timestamp": "2022-08-31T15:41:54+00:00",
+    "hash_id": "0c00cdee71cae07c",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://niflheim.top/, Content: Caoimbase Account Hq + MA, author: (hannibal2003), Detection Date: 20 Apr 2024, Type: Data leak }",
+    "Content": "{ site: bhf.io, Threat Actor: Maalz, Content: base Morocco”, Detection Date: 31 Dec 2021 18:10, Type: Data leak } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 501435,
-    "timestamp": "2024-04-20T18:39:27+00:00",
-    "hash_id": "a2f8e382ce41eb2e",
+    "message_id": 27100,
+    "timestamp": "2021-12-31T17:21:28+00:00",
+    "hash_id": "1b04d813f5377a3a",
     "severity": "medium"
   },
   {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 15 Apr 2024, Type: Data leak }",
+    "Content": "{ site: RaidForums, Threat Actor: [Eslebe Hitler](https://raidforums.com/member.php?action=profile&uid=122077896), Content: Morocco.2021. LinkedIn. Quantity 2,064,201”, Detection Date: “04 Sep 2021 22:52”, Type: Data leak } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 496984,
-    "timestamp": "2024-04-15T19:57:09+00:00",
-    "hash_id": "d4cb2e690144fbe6",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: Breachforums/, Content: FREE - [ Brazil ] gcv.pm.ma.gov.br Database, author: , Detection Date: 29 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 481491,
-    "timestamp": "2024-03-28T23:51:44+00:00",
-    "hash_id": "1ab638fe8fc6f247",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Victim: Baystateedu, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __35dc5330275a0b2cb3f3ae791184f506da6c5079a7133abc707db25b8d1d73ce__ Threat actor : __Bay State College is a private, career-focused college with campuses in Bostons Back Bay, Taunton, MA and Online__ Target victim : __N/D__”, Detection Date: 28 Mar 2024, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 481395,
-    "timestamp": "2024-03-28T21:48:36+00:00",
-    "hash_id": "545008c641ace6c1",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://noussahimo.gov.ma/vzz.txt, author: , Detection Date: 16 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 469950,
-    "timestamp": "2024-03-16T04:48:10+00:00",
-    "hash_id": "e5cc64366a1b690d",
+    "message_id": 3330,
+    "timestamp": "2021-09-04T21:36:25+00:00",
+    "hash_id": "60f5be1606405e65",
     "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.zone-h.org//specialdefacements, Content: https://caema.ma.gov.br/vz.txt, author: , Detection Date: 14 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 468579,
-    "timestamp": "2024-03-14T14:59:49+00:00",
-    "hash_id": "0c94f82d636d2075",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 13 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 467596,
-    "timestamp": "2024-03-13T12:42:27+00:00",
-    "hash_id": "826662d1c7f77404",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 12 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 466543,
-    "timestamp": "2024-03-12T05:49:13+00:00",
-    "hash_id": "47389f891656dc43",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://cmpresidentesarney.ma.gov.br/0x.txt, author: , Detection Date: 04 Mar 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 459709,
-    "timestamp": "2024-03-04T01:23:20+00:00",
-    "hash_id": "349a470fa51ed5e2",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 26 Feb 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 453951,
-    "timestamp": "2024-02-26T21:17:07+00:00",
-    "hash_id": "1669740dad24ae3d",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://crackingx.com/, Content: dcshop.ma - Accounts shop (10000+ shops,banks,CC,SPAM,fullz,call-in, author: (dcshp), Detection Date: 22 Feb 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 449658,
-    "timestamp": "2024-02-22T03:40:46+00:00",
-    "hash_id": "6a37c708b99c3e0a",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 12 Feb 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 440658,
-    "timestamp": "2024-02-12T16:40:31+00:00",
-    "hash_id": "0bb332d7b55250e9",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma [Full Dump] 62K Users, author: (Chucky), Detection Date: 31 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 432446,
-    "timestamp": "2024-01-31T01:40:50+00:00",
-    "hash_id": "a2e2c970035162b1",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.22☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 23 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 426998,
-    "timestamp": "2024-01-23T03:39:14+00:00",
-    "hash_id": "32dcfd7d8e812aa4",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Adidas.co.ma, author: (BINDECH), Detection Date: 22 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 426894,
-    "timestamp": "2024-01-22T21:46:09+00:00",
-    "hash_id": "15102a895939fcb6",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Caoimbase Account Hq + Ma, author: (piotrek44), Detection Date: 22 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 426171,
-    "timestamp": "2024-01-22T00:06:34+00:00",
-    "hash_id": "9388597e9c2533c9",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.19☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 20 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 424894,
-    "timestamp": "2024-01-20T03:16:31+00:00",
-    "hash_id": "efbe974ea5e7b9b3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.17☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 18 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 423482,
-    "timestamp": "2024-01-18T01:41:04+00:00",
-    "hash_id": "a640b06f19dcdbe4",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.15☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 16 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 421986,
-    "timestamp": "2024-01-16T01:55:57+00:00",
-    "hash_id": "d3f650486a0d4f72",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.14☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 15 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 421238,
-    "timestamp": "2024-01-15T02:32:11+00:00",
-    "hash_id": "8c4f28457a1ce6e8",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://crdcrew.cc/, Content: Caoimbase Account Hq + MA, author: (pawn21), Detection Date: 14 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 420764,
-    "timestamp": "2024-01-14T11:49:26+00:00",
-    "hash_id": "c387d74f6b00a9a5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.13☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 14 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 420550,
-    "timestamp": "2024-01-14T02:06:51+00:00",
-    "hash_id": "bc7dfc9fce6a8947",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.12☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 13 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 419754,
-    "timestamp": "2024-01-13T01:57:34+00:00",
-    "hash_id": "ed6d59de9c4bd4b7",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.11☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 12 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 419010,
-    "timestamp": "2024-01-12T02:36:34+00:00",
-    "hash_id": "727332a1e607fafb",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://demonforums.net/, Content: ✨☄️Jan.10☄️[PART II]☄️✨DISNEY | HBO MAX | STAR PLUS✨⚡PREMIUM ACCOUNTS⭐DISNEY | HBO MA, author: a href=https://demonforums.net/member.php?action=profile&uid=38767usuario01/a, Detection Date: 11 Jan 2024, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 418227,
-    "timestamp": "2024-01-11T01:35:14+00:00",
-    "hash_id": "62b30b75c7ee260d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://www.turkhackteam.org/, Content: RAMimi/ini Boşa Harca(t)ma / C ve Dinamiklik, author: (ZuL-RaA), Detection Date: 30 Dec 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 410629,
-    "timestamp": "2023-12-30T22:28:44+00:00",
-    "hash_id": "949da45d5b808808",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Uca.ma Database 100K, author: (frog), Detection Date: 24 Dec 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 406006,
-    "timestamp": "2023-12-24T06:11:20+00:00",
-    "hash_id": "b86f8c936d9d4402",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://breachforums.is/Forum-Databases, Content: www.aub.ma, author: , Detection Date: 29 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 389009,
-    "timestamp": "2023-11-29T08:31:03+00:00",
-    "hash_id": "d8b6796f0b44223f",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Aub.ma, author: (frog), Detection Date: 28 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 388665,
-    "timestamp": "2023-11-28T19:50:44+00:00",
-    "hash_id": "766f07a63c5a5ba9",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Url Login Pass 7 Million .Ma, author: (ntscuti4), Detection Date: 26 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 386959,
-    "timestamp": "2023-11-26T12:25:44+00:00",
-    "hash_id": "b851481e7b9a415e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: pbtv-ma.playboy.com [Premium], author: (neurofrosty), Detection Date: 25 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 386268,
-    "timestamp": "2023-11-25T10:12:40+00:00",
-    "hash_id": "4c46edf79291f383",
-    "severity": "low"
-  },
-  {
-    "Content": "{ Source: https://sinister.ly/, Content: DCSHOP.MA BEST STORE, author: a href=https://sinister.ly/member.php?action=profile&uid=244975dcshop/a, Detection Date: 20 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 383004,
-    "timestamp": "2023-11-20T18:30:00+00:00",
-    "hash_id": "f695f813a3805fd3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://crackingx.com/, Content: dcshop.ma - Accounts shop (10000+ shops,banks,CC,SPAM,fullz,call-in, author: (dcshp), Detection Date: 06 Nov 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 371564,
-    "timestamp": "2023-11-06T13:52:10+00:00",
-    "hash_id": "53dc1ca741054f81",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: .Ma - Url Login Password List 7Kk, author: (Chucky), Detection Date: 27 Oct 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 368192,
-    "timestamp": "2023-10-27T00:40:19+00:00",
-    "hash_id": "932ba88f458a05e2",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 26 Oct 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 367989,
-    "timestamp": "2023-10-26T19:29:13+00:00",
-    "hash_id": "b4976fd0167b882c",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP) | Page 5 | Carding Forum, Black Market & Freebies, author: , Detection Date: 16 Sep 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 340080,
-    "timestamp": "2023-09-16T18:49:43+00:00",
-    "hash_id": "faa55aa483693e2c",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://crackia.com//1-latest-topics.xml/, Content: X1 Iptv ma.swords.live STATUS : Active MAXCONN : 1 ACTCONN : 0 Created on : 18.03.2022 Allowed Outputs : m3u8,ts Expired on : 30.10.2023, author: , Detection Date: 30 Jul 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 308519,
-    "timestamp": "2023-07-30T16:25:40+00:00",
-    "hash_id": "cff62e071e34a553",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://crackingall.com/, Content: 719K HQ Combolist Mail Access Update (Music,Dating,MyCanal,Netflix,uPlay,Orange,Minecraft,Steam,Game,Accounts...) PLZ REPLY THIS THREAD FOR MOR COMBO Download Link..... https://link-center.net/640785/719k-update-ma-combolist, author: , Detection Date: 03 Jul 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 293532,
-    "timestamp": "2023-07-03T20:58:22+00:00",
-    "hash_id": "2428447967e71443",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 02 Jul 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 293007,
-    "timestamp": "2023-07-02T21:01:12+00:00",
-    "hash_id": "86df0f65ae96dd69",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 20 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 285111,
-    "timestamp": "2023-06-19T22:57:39+00:00",
-    "hash_id": "cfdfa0bfc9bba41d",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://support.academiaraqmya.gov.ma/Ir.html, author: , Detection Date: 20 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 285110,
-    "timestamp": "2023-06-19T22:57:35+00:00",
-    "hash_id": "23e0be0136e01207",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://preprod.academiaraqmya.gov.ma/Ir.html, author: , Detection Date: 20 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 285109,
-    "timestamp": "2023-06-19T22:57:31+00:00",
-    "hash_id": "3d620d68174b29f4",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://exposed.vc/, Content: SQL aub.ma, author: a href=https://exposed.vc/member.php?action=profile&uid=823xyz/a, Detection Date: 10 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 278105,
-    "timestamp": "2023-06-10T13:37:13+00:00",
-    "hash_id": "cbaf39d6ad935d81",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Aub.ma, author: (frog), Detection Date: 10 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 278102,
-    "timestamp": "2023-06-10T13:37:02+00:00",
-    "hash_id": "a36ee7ca66d7c676",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://exposed.vc/, Content: Avito.ma Database - Leaked, Download, author: a href=https://exposed.vc/member.php?action=profile&uid=5402Addka72424/a, Detection Date: 03 Jun 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 272965,
-    "timestamp": "2023-06-03T08:10:03+00:00",
-    "hash_id": "e48f0d60c6163275",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: .Ma - Url Login Password List 7Kk, author: (Chucky), Detection Date: 30 May 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 270473,
-    "timestamp": "2023-05-30T12:59:33+00:00",
-    "hash_id": "4a532d82eb698875",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.chab.gov.lb/Ma.htm, author: , Detection Date: 08 May 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 255103,
-    "timestamp": "2023-05-08T07:34:50+00:00",
-    "hash_id": "f74396197454cb8f",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.cis.gov.sc/Ma.htm, author: , Detection Date: 08 May 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 255102,
-    "timestamp": "2023-05-08T07:34:46+00:00",
-    "hash_id": "40dc7b6e484f5512",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://crackingall.com/, Content: 561K Combolist France Mails And Access (Music,Dating,MyCanal,Netflix,uPlay,Orange,Minecraft,Steam,Hulu,Paypal...) PLZ REPLY THIS THREAD FOR MOR COMBO Download Link..... https://link-center.net/196088/561k-combolist-france-ma My channel for mor Fresh a, author: , Detection Date: 01 May 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 250992,
-    "timestamp": "2023-05-01T21:00:33+00:00",
-    "hash_id": "d72d5bc914238495",
-    "severity": "low"
-  },
-  {
-    "Content": "{ Source: https://at.dublikat.club/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 30 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 250037,
-    "timestamp": "2023-04-30T13:07:24+00:00",
-    "hash_id": "1d639c1f2ee0bfe4",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 25 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 246714,
-    "timestamp": "2023-04-25T20:51:16+00:00",
-    "hash_id": "f56a505183f5a689",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma 180K, author: (Chucky), Detection Date: 22 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 244083,
-    "timestamp": "2023-04-22T15:09:04+00:00",
-    "hash_id": "5256e26a2883dd17",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://restaurantedaeducacao.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241825,
-    "timestamp": "2023-04-19T14:53:19+00:00",
-    "hash_id": "3cfc4c8497fcd1bb",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://negrocosme.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241824,
-    "timestamp": "2023-04-19T14:53:17+00:00",
-    "hash_id": "de6b5757e091e63f",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://www.plenas.ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241823,
-    "timestamp": "2023-04-19T14:53:14+00:00",
-    "hash_id": "b74169da4797d462",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://vocacional.ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241822,
-    "timestamp": "2023-04-19T14:53:12+00:00",
-    "hash_id": "2e5f49e3775edae3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://ibutumy.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241821,
-    "timestamp": "2023-04-19T14:53:09+00:00",
-    "hash_id": "27931a7ddcd2812a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://contratae.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241820,
-    "timestamp": "2023-04-19T14:53:06+00:00",
-    "hash_id": "c260276c0a75c139",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.editais.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241819,
-    "timestamp": "2023-04-19T14:53:04+00:00",
-    "hash_id": "d7bf69bf38238bba",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://patrimonio.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241818,
-    "timestamp": "2023-04-19T14:53:01+00:00",
-    "hash_id": "98cdb16ecb270f00",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://contrataae.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241817,
-    "timestamp": "2023-04-19T14:52:59+00:00",
-    "hash_id": "d0cf406a460dd3c0",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.maranhaoprofissionalizado.iema.ma.gov.br/xd.php, author: , Detection Date: 19 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 241816,
-    "timestamp": "2023-04-19T14:52:56+00:00",
-    "hash_id": "2cf05032efe22de4",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Other - f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP), author: , Detection Date: 07 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 233197,
-    "timestamp": "2023-04-07T20:19:48+00:00",
-    "hash_id": "1225f50403c8c6ef",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: http://cvvboard.cc/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 06 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 232270,
-    "timestamp": "2023-04-06T17:52:15+00:00",
-    "hash_id": "605bd713bf00c620",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://leakbase.cc/, Content: Database Leaked Avito.ma, author: (Chucky), Detection Date: 01 Apr 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 228482,
-    "timestamp": "2023-04-01T12:31:20+00:00",
-    "hash_id": "a25f8d9c6d631b90",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://crackia.com//1-latest-topics.xml/, Content: X1 Iptv ma-iptv.com STATUS : Active MAXCONN : 1 ACTCONN : 0 Created on : 01/10/2022 Expired on : 01/10/2023 Allowed Outputs : ts, author: , Detection Date: 30 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 227280,
-    "timestamp": "2023-03-30T18:10:25+00:00",
-    "hash_id": "9e49de689a86b06e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://deeptor.ws/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 28 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 225754,
-    "timestamp": "2023-03-28T13:47:40+00:00",
-    "hash_id": "74ec68ddeeca185a",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://niflheim.top/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 26 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 224748,
-    "timestamp": "2023-03-26T20:11:44+00:00",
-    "hash_id": "a514f5fb3b8c3ba2",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://crackingall.com/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: , Detection Date: 25 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 224013,
-    "timestamp": "2023-03-25T12:53:34+00:00",
-    "hash_id": "914850c87f0d1d1f",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://ascarding.com/, Content: f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more), author: (FoxStore), Detection Date: 22 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 222248,
-    "timestamp": "2023-03-22T18:56:20+00:00",
-    "hash_id": "249acfd1a721af27",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: leak_db, Content: http://mtedd.gov.ma/ Backup #DB #DATABASE #DELTABOYS @leak_db, author: Leaked Database 7⃣7⃣7⃣, Detection Date: 20 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 221113,
-    "timestamp": "2023-03-20T21:50:22+00:00",
-    "hash_id": "219487685a6d4516",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: leak_db, Content: https://acao.org.ma/ Database + Webshell Price : 400$ Database : Free for Users #db #database #access #webshell @leak_db, author: Leaked Database 7⃣7⃣7⃣, Detection Date: 19 Mar 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 220438,
-    "timestamp": "2023-03-19T20:51:38+00:00",
-    "hash_id": "8008627ea2ae0375",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: http://www.matnuhpv.gov.ma, author: , Detection Date: 03 Feb 2023, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 194179,
-    "timestamp": "2023-02-03T01:10:09+00:00",
-    "hash_id": "25d1d9b4ff541ee9",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: http://www.zone-h.org//specialdefacements, Content: https://smit.gov.ma, author: , Detection Date: 18 Dec 2022, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 164873,
-    "timestamp": "2022-12-18T15:41:35+00:00",
-    "hash_id": "9e42bb346a56874b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Porn - 🔞 PREMIUM ACCOUNT 🔞 https://site-ma.realitykings.com/login, author: , Detection Date: 04 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 155154,
-    "timestamp": "2022-12-04T02:00:14+00:00",
-    "hash_id": "d3aa022788487957",
-    "severity": "low"
-  },
-  {
-    "Content": "{ Source: https:// Content: .ma.txt 431.5 kB, author: DB-MARKEET ™, Detection Date: 03 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 154789,
-    "timestamp": "2022-12-03T13:22:50+00:00",
-    "hash_id": "feb121528a422069",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: Porn - 🔞 PREMIUM ACCOUNT 🔞 https://site-ma.realitykings.com/login, author: , Detection Date: 22 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 147064,
-    "timestamp": "2022-11-22T19:10:57+00:00",
-    "hash_id": "fb3318b029e904d0",
-    "severity": "low"
-  },
-  {
-    "Content": "{ Source: https://www.turkhackteam.org/, Content: C# Form Uygulama ma Otomatik Güncelleme Özelliği nasıl ekleyebilirim?, author: (ScriptKid), Detection Date: 06 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 137091,
-    "timestamp": "2022-11-06T14:06:38+00:00",
-    "hash_id": "496f476e203a938f",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Are hashtags at the end of URLs considered as a different page by Google?, author: (Ma_ku), Detection Date: 04 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 135702,
-    "timestamp": "2022-11-04T10:15:42+00:00",
-    "hash_id": "f1e0a2df8ca3ff6d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Db Market, Content: kitab.bnrm.ma”, Detection Date: 16 Oct 2022 14:51, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 132400,
-    "timestamp": "2022-10-16T13:02:41+00:00",
-    "hash_id": "89be68e6588bc704",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://joaolisboa.ma.gov.br/readme.html”, Deface info:” notified by AnonSec Team” Detection Date: “15 Jul 2022 09:22”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 111222,
-    "timestamp": "2022-07-15T07:43:41+00:00",
-    "hash_id": "fdac4d7df43f0b15",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: [Leak LeFigaro ] – When you insult the Maghreb, your flaws speak for you, author: a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a, Detection Date: 11 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 784190,
-    "timestamp": "2025-06-11T14:12:16+00:00",
-    "hash_id": "ace4d0f393f2c057",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: Darkforums[.]st, Content: Marrocan University - FSTE Université Moulay Ismaïl - Full Database, author: a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a, Detection Date: 03 Jun 2025, Type: Data leak }",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "bbef83731c0de3da",
-    "severity": "high"
   }
 ]
