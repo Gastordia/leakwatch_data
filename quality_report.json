@@ -3,7 +3,7 @@
   "filtered_count": 140,
   "rejected_count": 18,
   "quality_improvement": "88.6%",
-  "processing_timestamp": "2025-07-26T18:12:55.859239",
+  "processing_timestamp": "2025-07-26T21:08:35.524263",
   "filter_config": {
     "min_breach_score": 2.0,
     "max_content_length": 2000,
