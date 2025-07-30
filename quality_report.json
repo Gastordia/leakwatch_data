@@ -1,9 +1,9 @@
 {
-  "original_count": 157,
-  "filtered_count": 140,
+  "original_count": 158,
+  "filtered_count": 141,
   "rejected_count": 17,
   "quality_improvement": "89.2%",
-  "processing_timestamp": "2025-07-30T18:14:41.838871",
+  "processing_timestamp": "2025-07-30T21:09:37.186723",
   "filter_config": {
     "min_breach_score": 2.0,
     "max_content_length": 2000,
