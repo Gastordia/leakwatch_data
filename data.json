@@ -1,5 +1,16 @@
 [
   {
+    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
+    "Detection Date": "11 Jun 2025",
+    "message_id": 784190,
+    "timestamp": "2025-06-11T14:12:16+00:00",
+    "hash_id": "66411e10f94b26a3",
+    "severity": "medium"
+  },
+  {
     "Content": "IWACLUB Maroc App Compromised",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -17,17 +28,6 @@
     "message_id": 122679,
     "timestamp": "2022-08-11T17:49:07+00:00",
     "hash_id": "556cf3fe4a42cf7d",
-    "severity": "medium"
-  },
-  {
-    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
-    "Detection Date": "11 Jun 2025",
-    "message_id": 784190,
-    "timestamp": "2025-06-11T14:12:16+00:00",
-    "hash_id": "66411e10f94b26a3",
     "severity": "medium"
   },
   {
@@ -489,17 +489,6 @@
     "severity": "medium"
   },
   {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
-    "severity": "low"
-  },
-  {
     "Content": "💥💸 10K+ Moroccan Accounts Leaked — Yours for Just $10! 💸💥",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -914,6 +903,17 @@
     "severity": "medium",
     "author": "Unknown",
     "Detection Date": "31 Mar 2023"
+  },
+  {
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
+    "severity": "low"
   },
   {
     "Content": "{ Victim: ashlandk12maus, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __90acff064a79a2068643d0e7d5f8122b880eddc5d6d63f907b1afdf79179edc9__ Target victim : __ashland.k12.ma.us__”, Detection Date: 17 Jul 2025, Type: Ransom Alert } Data Leak monitoring system",
