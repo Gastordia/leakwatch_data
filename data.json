@@ -1042,17 +1042,6 @@
     "severity": "medium"
   },
   {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
-    "severity": "low"
-  },
-  {
     "Content": "💥💸 10K+ Moroccan Accounts Leaked — Yours for Just $10! 💸💥",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -1456,5 +1445,16 @@
     "timestamp": "2021-09-07T12:59:25+00:00",
     "hash_id": "2f77530ded2e21e9",
     "severity": "critical"
+  },
+  {
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
+    "severity": "low"
   }
 ]
