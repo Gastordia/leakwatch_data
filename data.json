@@ -1,45 +1,25 @@
 [
   {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
-    "severity": "low"
-  },
-  {
-    "Content": "IWACLUB Maroc App Compromised",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
-    "Detection Date": "16 Jul 2025",
-    "message_id": 811358,
-    "timestamp": "2025-07-16T01:42:20+00:00",
-    "hash_id": "d8c6ff052e3580c5",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
+    "Detection Date": "09 Aug 2025",
+    "message_id": 831037,
+    "timestamp": "2025-08-09T21:41:53+00:00",
+    "hash_id": "48d98a058bc0ffb1",
     "severity": "medium"
   },
   {
-    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
+    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
+    "Source": "https://crackingall.com/",
     "Type": "Data leak",
-    "message_id": 122679,
-    "timestamp": "2022-08-11T17:49:07+00:00",
-    "hash_id": "556cf3fe4a42cf7d",
-    "severity": "medium"
-  },
-  {
-    "Content": "🇲🇦 Neweracom.ma ERP Breach — 476K+ HR",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=9Chucky_BF/a",
-    "Detection Date": "06 Aug 2025",
-    "message_id": 828137,
-    "timestamp": "2025-08-06T09:50:33+00:00",
-    "hash_id": "92499c1a0a566c71",
-    "severity": "medium"
+    "message_id": 227606,
+    "timestamp": "2023-03-31T03:07:33+00:00",
+    "hash_id": "d464e2354b866206",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "31 Mar 2023"
   },
   {
     "Content": "[🇲🇦 Morocco] ismac.ma — Academic & Applicant Database Leak | 1",
@@ -51,6 +31,880 @@
     "timestamp": "2025-07-25T12:54:55+00:00",
     "hash_id": "b685e3d5068a6287",
     "severity": "high"
+  },
+  {
+    "Content": "Morocco (PMMP) Moroccan government for public procurement Full Database Breached",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
+    "Detection Date": "05 Jul 2025",
+    "message_id": 802545,
+    "timestamp": "2025-07-04T23:37:53+00:00",
+    "hash_id": "e6d2527d6cb5bccf",
+    "severity": "high"
+  },
+  {
+    "Content": "MOROCCO - MarsaMaroc database sample -fullname + emails ( no passwords )",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
+    "Detection Date": "01 Jul 2025",
+    "message_id": 799510,
+    "timestamp": "2025-07-01T06:43:28+00:00",
+    "hash_id": "74b539a80c4e937a",
+    "severity": "high"
+  },
+  {
+    "Content": "Leak db of the Embassy of Djibouti in Morocco",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25680Doxeur23azi/a",
+    "Detection Date": "29 Jun 2025",
+    "message_id": 798084,
+    "timestamp": "2025-06-29T12:45:39+00:00",
+    "hash_id": "1780eff3c9de96a4",
+    "severity": "medium"
+  },
+  {
+    "Content": "MOROCCO - [Potential Internal Document Leak – SOTHEMA]",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
+    "Detection Date": "27 Jun 2025",
+    "message_id": 796658,
+    "timestamp": "2025-06-27T16:35:08+00:00",
+    "hash_id": "965fe7fba813ccb2",
+    "severity": "medium"
+  },
+  {
+    "Content": "MOROCCO - Potential Internal Document Leak – SOTHEMA",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
+    "Detection Date": "27 Jun 2025",
+    "message_id": 796656,
+    "timestamp": "2025-06-27T16:35:03+00:00",
+    "hash_id": "62e726d54ec3f122",
+    "severity": "medium"
+  },
+  {
+    "Content": "Morocco clinic system database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
+    "Detection Date": "27 Jun 2025",
+    "message_id": 796048,
+    "timestamp": "2025-06-26T22:59:35+00:00",
+    "hash_id": "ae95fa1f0d7e9fcd",
+    "severity": "low"
+  },
+  {
+    "Content": "Football federation morocco Leak",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
+    "Detection Date": "19 Jun 2025",
+    "message_id": 790068,
+    "timestamp": "2025-06-19T03:16:25+00:00",
+    "hash_id": "4d5c0dd480cb86e4",
+    "severity": "medium"
+  },
+  {
+    "Content": "HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47",
+    "Source": "https://darknetarmy.com/",
+    "Type": "Data leak",
+    "author": "(slender47)",
+    "Detection Date": "15 Jun 2025",
+    "message_id": 787108,
+    "timestamp": "2025-06-15T08:14:52+00:00",
+    "hash_id": "39f3bedae84990e8",
+    "severity": "medium"
+  },
+  {
+    "Content": "MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASE",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=3903Ayiemedia/a",
+    "Detection Date": "14 Jun 2025",
+    "message_id": 786356,
+    "timestamp": "2025-06-14T11:00:59+00:00",
+    "hash_id": "5af45567fb5bba85",
+    "severity": "low"
+  },
+  {
+    "Content": "Morocco Websites data leaked for free download",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 778305,
+    "timestamp": "2025-06-03T14:59:50+00:00",
+    "hash_id": "b55e8e8e69af355e",
+    "severity": "medium"
+  },
+  {
+    "Content": "MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASES",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=17400Jabaroot/a",
+    "Detection Date": "02 Jun 2025",
+    "message_id": 777419,
+    "timestamp": "2025-06-02T11:36:45+00:00",
+    "hash_id": "1a2e74eb5ce20103",
+    "severity": "low"
+  },
+  {
+    "Content": "Football federation morocco ftp server data leak Free download!",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
+    "Detection Date": "02 Jun 2025",
+    "message_id": 777072,
+    "timestamp": "2025-06-01T23:04:00+00:00",
+    "hash_id": "f096394b46e8ecd0",
+    "severity": "medium"
+  },
+  {
+    "Content": "Morocco Senstive information Leaked Free Download",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
+    "Detection Date": "29 May 2025",
+    "message_id": 774752,
+    "timestamp": "2025-05-29T20:24:55+00:00",
+    "hash_id": "f6185604b5e2c256",
+    "severity": "medium"
+  },
+  {
+    "Content": "Morocco Ministry of National Land Use Planning Leaked Free Download",
+    "Source": "https://darknetarmy.com/",
+    "Type": "Data leak",
+    "author": "(B4ba Yega)",
+    "Detection Date": "16 May 2025",
+    "message_id": 765917,
+    "timestamp": "2025-05-16T05:11:43+00:00",
+    "hash_id": "7cb7fa6a7f79fe55",
+    "severity": "medium"
+  },
+  {
+    "Content": "Database Morocco",
+    "Source": "https://breachforums.is/Forum-Databases",
+    "Type": "Data leak",
+    "author": "",
+    "Detection Date": "16 Nov 2023",
+    "message_id": 379960,
+    "timestamp": "2023-11-16T15:50:38+00:00",
+    "hash_id": "37663804cd5b2a89",
+    "severity": "low"
+  },
+  {
+    "Content": "Database Morocco | BreachForums",
+    "Source": "https://breachforums.is/Forum-Databases",
+    "Type": "Data leak",
+    "author": "",
+    "Detection Date": "16 Nov 2023",
+    "message_id": 379959,
+    "timestamp": "2023-11-16T15:50:37+00:00",
+    "hash_id": "2d034e57204f7820",
+    "severity": "high"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 315602,
+    "timestamp": "2023-08-12T05:40:48+00:00",
+    "hash_id": "eb861450118b5b3e",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "12 Aug 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 311543,
+    "timestamp": "2023-08-05T13:22:55+00:00",
+    "hash_id": "b0fa3dd96511ec1d",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "05 Aug 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 303016,
+    "timestamp": "2023-07-20T22:01:38+00:00",
+    "hash_id": "79753b77e0fe116b",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "20 Jul 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 279602,
+    "timestamp": "2023-06-12T16:57:15+00:00",
+    "hash_id": "49751fe32ee96dc6",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "12 Jun 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 278858,
+    "timestamp": "2023-06-11T16:37:14+00:00",
+    "hash_id": "1281bf69661d7904",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "11 Jun 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 275989,
+    "timestamp": "2023-06-07T16:50:26+00:00",
+    "hash_id": "00658700af390a41",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "07 Jun 2023"
+  },
+  {
+    "Content": "28k Morocco",
+    "Source": "https://nohide.space/",
+    "Type": "Data leak",
+    "message_id": 273563,
+    "timestamp": "2023-06-04T07:29:34+00:00",
+    "hash_id": "13936b07ec53f10c",
+    "severity": "medium",
+    "author": "(Fr33_D4t4)",
+    "Detection Date": "04 Jun 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 256376,
+    "timestamp": "2023-05-10T02:33:21+00:00",
+    "hash_id": "451e128306289df0",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "10 May 2023"
+  },
+  {
+    "Content": "Morocco Visa Debit Gold By carding forum",
+    "Source": "https://darkpro.net/",
+    "Type": "Data leak",
+    "message_id": 252344,
+    "timestamp": "2023-05-03T21:13:26+00:00",
+    "hash_id": "2752ff740b9e147a",
+    "severity": "medium",
+    "author": "(SYCOSUNNY)",
+    "Detection Date": "03 May 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 242969,
+    "timestamp": "2023-04-21T02:52:42+00:00",
+    "hash_id": "f657d71b03d57e5c",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "21 Apr 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 234595,
+    "timestamp": "2023-04-09T18:53:19+00:00",
+    "hash_id": "2771a9317dc2eaf6",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "09 Apr 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 229316,
+    "timestamp": "2023-04-02T18:57:49+00:00",
+    "hash_id": "1abe33c2616873fa",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "02 Apr 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 225623,
+    "timestamp": "2023-03-28T08:20:25+00:00",
+    "hash_id": "7bd814c99f7f374b",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "28 Mar 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 222723,
+    "timestamp": "2023-03-23T13:21:59+00:00",
+    "hash_id": "8bc3a0e6e7836316",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "23 Mar 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 213839,
+    "timestamp": "2023-03-09T06:20:05+00:00",
+    "hash_id": "4341f457b5555693",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "09 Mar 2023"
+  },
+  {
+    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
+    "Source": "https://cybercarders.com/",
+    "Type": "Data leak",
+    "message_id": 204878,
+    "timestamp": "2023-02-20T23:07:09+00:00",
+    "hash_id": "02dabedf44e0adda",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "20 Feb 2023"
+  },
+  {
+    "Content": "Hello vps with Morocco ip",
+    "Source": "https://www.blackhatworld.com/",
+    "Type": "Data leak",
+    "message_id": 197921,
+    "timestamp": "2023-02-09T00:26:38+00:00",
+    "hash_id": "eac7fd744465c7ed",
+    "severity": "medium",
+    "author": "(stripe2023)",
+    "Detection Date": "09 Feb 2023"
+  },
+  {
+    "Content": "Hello From Morocco ^^",
+    "Source": "https://www.blackhatworld.com/",
+    "Type": "Data leak",
+    "message_id": 190233,
+    "timestamp": "2023-01-28T00:56:16+00:00",
+    "hash_id": "a2eff3eef9d6fd06",
+    "severity": "medium",
+    "author": "(Adnane marocco)",
+    "Detection Date": "28 Jan 2023"
+  },
+  {
+    "Content": "{ Source: https://www.blackhatworld.com/, Content: Croatia vs Morocco, author: (FabioSelau), Detection Date: 12 Dec 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 160283,
+    "timestamp": "2022-12-11T23:18:01+00:00",
+    "hash_id": "21b7076221da045d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 04 Dec 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 155263,
+    "timestamp": "2022-12-04T07:45:48+00:00",
+    "hash_id": "40a981c3c7b8370d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ Source: https://twitter.com/ransomwatcher, Content: #Vice Society: IKEA MoroccoIKEA Kuwait #Website: ikea.com/ma/ #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @: author: RansomWatcher, Detection Date: 28 Nov 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 151360,
+    "timestamp": "2022-11-28T14:49:16+00:00",
+    "hash_id": "a3d5ed71415199ea",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ site: Ransomware Related, Content:#Vice Society: IKEA MoroccoIKEA Kuwait #Website: #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @:”, Detection Date: 28 Nov 2022 15:02, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 151319,
+    "timestamp": "2022-11-28T14:05:19+00:00",
+    "hash_id": "79aa5c29da98d9c8",
+    "severity": "critical"
+  },
+  {
+    "Content": "{ Source: https://deeptor.ws/, Content: Morocco Master Debit Standard, author: (mongoose), Detection Date: 05 Nov 2022, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 136603,
+    "timestamp": "2022-11-05T19:03:04+00:00",
+    "hash_id": "ab09ffa487c45ac4",
+    "severity": "medium"
+  },
+  {
+    "Content": "58K COMBOLIST MOROCCO FRESH”",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 127329,
+    "timestamp": "2022-08-31T15:41:54+00:00",
+    "hash_id": "0c00cdee71cae07c",
+    "severity": "medium",
+    "Detection Date": "31 Aug 2022"
+  },
+  {
+    "Content": "{ site: bhf.io, Threat Actor: Maalz, Content: base Morocco”, Detection Date: 31 Dec 2021 18:10, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 27100,
+    "timestamp": "2021-12-31T17:21:28+00:00",
+    "hash_id": "1b04d813f5377a3a",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: RaidForums, Threat Actor: [Eslebe Hitler](https://raidforums.com/member.php?action=profile&uid=122077896), Content: Morocco.2021. LinkedIn. Quantity 2,064,201”, Detection Date: “04 Sep 2021 22:52”, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 3330,
+    "timestamp": "2021-09-04T21:36:25+00:00",
+    "hash_id": "60f5be1606405e65",
+    "severity": "medium"
+  },
+  {
+    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
+    "Detection Date": "11 Jun 2025",
+    "message_id": 784190,
+    "timestamp": "2025-06-11T14:12:16+00:00",
+    "hash_id": "66411e10f94b26a3",
+    "severity": "medium"
+  },
+  {
+    "Content": "💥💸 10K+ Moroccan Accounts Leaked — Yours for Just $10! 💸💥",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=31882Hider__Nex/a",
+    "Detection Date": "30 Jul 2025",
+    "message_id": 822894,
+    "timestamp": "2025-07-30T20:46:48+00:00",
+    "hash_id": "2d2310dee2b524ef",
+    "severity": "high"
+  },
+  {
+    "Content": "🔥 Moroccan Real Estate WP Site Compromised 🔥",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=23127marlithorcyber1/a",
+    "Detection Date": "11 Jul 2025",
+    "message_id": 807918,
+    "timestamp": "2025-07-11T16:55:18+00:00",
+    "hash_id": "fdf0f84e94216382",
+    "severity": "medium"
+  },
+  {
+    "Content": "[leak] - Data Moroccan Agricultural Development Agency",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=26421mecrobyte/a",
+    "Detection Date": "09 Jul 2025",
+    "message_id": 806135,
+    "timestamp": "2025-07-09T12:41:27+00:00",
+    "hash_id": "5b9cca49ec9f5ca6",
+    "severity": "medium"
+  },
+  {
+    "Content": "DATABASE LEAK : Moroccan National Social Security Fund",
+    "Source": "Leakbase[.]la",
+    "Type": "Data leak",
+    "author": "(Deleted member 115303)",
+    "Detection Date": "27 Jun 2025",
+    "message_id": 796599,
+    "timestamp": "2025-06-27T15:02:49+00:00",
+    "hash_id": "496424dc0c1f9f7b",
+    "severity": "critical"
+  },
+  {
+    "Content": "Moroccan Government Portals Compromised",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22561XrOOT01/a",
+    "Detection Date": "17 Jun 2025",
+    "message_id": 788760,
+    "timestamp": "2025-06-17T10:23:00+00:00",
+    "hash_id": "69f46616cc0245cb",
+    "severity": "medium"
+  },
+  {
+    "Content": "Massive Credential Drop: Moroccan Banks & Government Portals Compromised",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22561XrOOT01/a",
+    "Detection Date": "16 Jun 2025",
+    "message_id": 787904,
+    "timestamp": "2025-06-16T10:00:50+00:00",
+    "hash_id": "c000346b2f1cda69",
+    "severity": "medium"
+  },
+  {
+    "Content": "DATA (6GB)CNSS - Moroccan National Social Security Fund all docm",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22150ONIONFAR47/a",
+    "Detection Date": "15 Jun 2025",
+    "message_id": 786933,
+    "timestamp": "2025-06-15T02:10:11+00:00",
+    "hash_id": "8abefceee1208c11",
+    "severity": "high"
+  },
+  {
+    "Content": "+21M Moroccan phone number",
+    "Source": "https://darkforums.st/",
+    "Type": "Data leak",
+    "message_id": 772076,
+    "timestamp": "2025-05-25T20:38:04+00:00",
+    "hash_id": "16b1c4f06abaf4dd",
+    "severity": "medium",
+    "author": "bxxxx1",
+    "Detection Date": "25 May 2025"
+  },
+  {
+    "Content": "Please iam looking for Moroccan Database of national funds for free please i just want to see what is inside of those documents. thank you",
+    "Source": "https://leakbase.io/",
+    "Type": "Data leak",
+    "author": "(kirafesr)",
+    "Detection Date": "14 Apr 2025",
+    "message_id": 744325,
+    "timestamp": "2025-04-14T04:28:33+00:00",
+    "hash_id": "1aa68a7753c7a28f",
+    "severity": "low"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://www.ebrevistas.eb.mil.br/public/site/images/ox/id.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “13 Aug 2022 22:38”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128818,
+    "timestamp": "2022-09-11T16:41:27+00:00",
+    "hash_id": "d891172ec3b48f32",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://myoffice.takesa2.go.th/myoffice/2563/laysen/10.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:34”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128817,
+    "timestamp": "2022-09-11T16:41:25+00:00",
+    "hash_id": "5d7359b1e556207b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://www.ska2.go.th/myoffice/2563/laysen/2282.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:24”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128816,
+    "timestamp": "2022-09-11T16:41:24+00:00",
+    "hash_id": "93659185b12cd795",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://myoffice.surat1.go.th/2563/laysen/1999.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:18”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128815,
+    "timestamp": "2022-09-11T16:41:23+00:00",
+    "hash_id": "b9e95d36fc2d4451",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://myoffice.surin3.go.th/2563/laysen/658.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:07”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128814,
+    "timestamp": "2022-09-11T16:41:21+00:00",
+    "hash_id": "eaa415d2321d14b1",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://myoffice.suratpeo.go.th/2563/laysen/55.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “16 Nov 2020 18:53”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128813,
+    "timestamp": "2022-09-11T16:41:20+00:00",
+    "hash_id": "5d4ce26549373d0b",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://adm0nlogin.dccpjn.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “11 Sep 2022 02:24”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128806,
+    "timestamp": "2022-09-11T16:21:16+00:00",
+    "hash_id": "1f90ef18c272d4ca",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://wpview.dccpjn.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “10 Sep 2022 03:13”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128805,
+    "timestamp": "2022-09-11T16:21:14+00:00",
+    "hash_id": "82de5c92d852043c",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://ns5.portalwebvillamercedes.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “09 Sep 2022 09:55”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 128615,
+    "timestamp": "2022-09-09T12:05:57+00:00",
+    "hash_id": "81e372e2b60132c5",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://dmrlibrary.gov.mm/0x.txt”, Deface info:” notified by Moroccan Revolution” Detection Date: “02 Sep 2022 01:43”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 127705,
+    "timestamp": "2022-09-02T00:05:37+00:00",
+    "hash_id": "654e7476de84d656",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://t4pacenter.ed.gov/T4PAUploadFiles/OfficeHourEvents/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “30 Aug 2022 09:37”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 127018,
+    "timestamp": "2022-08-30T11:25:09+00:00",
+    "hash_id": "c61ba92d36ff3125",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://www.kalasin-pao.go.th/antidrug//images/id.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “18 Jul 2022 11:38”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 117546,
+    "timestamp": "2022-07-28T15:26:53+00:00",
+    "hash_id": "d32c8d0620650867",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://dpmptspnaker.solokkab.go.id/indox.txt”, Deface info:” notified by Moroccan Revolution” Detection Date: “25 Jul 2022 13:35”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 116390,
+    "timestamp": "2022-07-25T11:50:30+00:00",
+    "hash_id": "9fc4a3369f07a63e",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://intranet.kemendag.go.id/43d0433f.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “12 Jul 2022 10:24”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110139,
+    "timestamp": "2022-07-13T08:54:56+00:00",
+    "hash_id": "f3aab96a0f601598",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://ms-calang.go.id/images/gmapfp/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 22:49”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110138,
+    "timestamp": "2022-07-13T08:54:55+00:00",
+    "hash_id": "86e32681224b71d4",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://www.eadfatec.cps.sp.gov.br/revista/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 10:02”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110137,
+    "timestamp": "2022-07-13T08:54:53+00:00",
+    "hash_id": "da5035835f152525",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jtfs.frim.gov.my/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 02:26”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110136,
+    "timestamp": "2022-07-13T08:54:52+00:00",
+    "hash_id": "805826cf9ada9b21",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnal.pekalongankota.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 02:17”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110135,
+    "timestamp": "2022-07-13T08:54:50+00:00",
+    "hash_id": "6f819fbee54ff02d",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://kaderabahasa.kemdikbud.go.id/jurnal/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:46”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110134,
+    "timestamp": "2022-07-13T08:54:49+00:00",
+    "hash_id": "3d023f95322e530e",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://simbelmawa.kemdikbud.go.id/prosiding/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:42”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110133,
+    "timestamp": "2022-07-13T08:54:47+00:00",
+    "hash_id": "96d3244127a370ac",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://transformasi.kemenag.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:39”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110132,
+    "timestamp": "2022-07-13T08:54:46+00:00",
+    "hash_id": "14aeab2b82f07af2",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://ejournaltes.sumselprov.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:21”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110131,
+    "timestamp": "2022-07-13T08:54:45+00:00",
+    "hash_id": "514a24de68ab91d6",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://journal.bawaslu.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:16”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110130,
+    "timestamp": "2022-07-13T08:54:43+00:00",
+    "hash_id": "75049d6d08ab83bf",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnalperbatas.bengkayangkab.go.id/public/site/images/zbiok/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:12”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110129,
+    "timestamp": "2022-07-13T08:54:42+00:00",
+    "hash_id": "c638d10a6a348659",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnalsetjen.kemendagri.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:02”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110128,
+    "timestamp": "2022-07-13T08:54:41+00:00",
+    "hash_id": "50108ff5eb662fb3",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://lldikti12.ristekdikti.go.id/jurnal/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:58”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110127,
+    "timestamp": "2022-07-13T08:54:39+00:00",
+    "hash_id": "42be452c2a3ea052",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnaltumotowa.kemdikbud.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:57”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110126,
+    "timestamp": "2022-07-13T08:54:38+00:00",
+    "hash_id": "49fedd17a736064a",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://ejournal.kemensos.go.id/public/site/images/oxzbi/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:55”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110125,
+    "timestamp": "2022-07-13T08:54:37+00:00",
+    "hash_id": "2a0cd3db0ca82d54",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnalpertanahan.atrbpn.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:45”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110124,
+    "timestamp": "2022-07-13T08:54:36+00:00",
+    "hash_id": "e87c190e3f0fa6dd",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnaldikbud.kemdikbud.go.id/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:42”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110123,
+    "timestamp": "2022-07-13T08:54:34+00:00",
+    "hash_id": "7e8c0f7e5df04bcb",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://jurnalkediklatan.kemdikbud.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:34”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110122,
+    "timestamp": "2022-07-13T08:54:33+00:00",
+    "hash_id": "239feeb32f43c416",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: http://jurnal.kemenkopmk.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:30”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110121,
+    "timestamp": "2022-07-13T08:54:32+00:00",
+    "hash_id": "b648083901465a7f",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://journal.nds.ox.ac.uk/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:14”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 110120,
+    "timestamp": "2022-07-13T08:54:30+00:00",
+    "hash_id": "3abfb54c1afc8b65",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Databreach[.]net, Content: Ma: Personal Data of 2 Million Moroccans Leaked Online”, Detection Date: 07 Sep 2021, Type: Data leak } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 3600,
+    "timestamp": "2021-09-07T12:59:25+00:00",
+    "hash_id": "2f77530ded2e21e9",
+    "severity": "critical"
+  },
+  {
+    "Content": "🇲🇦 Neweracom.ma ERP Breach — 476K+ HR",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=9Chucky_BF/a",
+    "Detection Date": "06 Aug 2025",
+    "message_id": 828137,
+    "timestamp": "2025-08-06T09:50:33+00:00",
+    "hash_id": "92499c1a0a566c71",
+    "severity": "medium"
   },
   {
     "Content": "{ Victim: ashlandk12maus, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __90acff064a79a2068643d0e7d5f8122b880eddc5d6d63f907b1afdf79179edc9__ Target victim : __ashland.k12.ma.us__”, Detection Date: 17 Jul 2025, Type: Ransom Alert } Data Leak monitoring system",
@@ -573,888 +1427,34 @@
     "Detection Date": "03 Feb 2023"
   },
   {
-    "Content": "Morocco (PMMP) Moroccan government for public procurement Full Database Breached",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
-    "Detection Date": "05 Jul 2025",
-    "message_id": 802545,
-    "timestamp": "2025-07-04T23:37:53+00:00",
-    "hash_id": "e6d2527d6cb5bccf",
-    "severity": "high"
-  },
-  {
-    "Content": "MOROCCO - MarsaMaroc database sample -fullname + emails ( no passwords )",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
-    "Detection Date": "01 Jul 2025",
-    "message_id": 799510,
-    "timestamp": "2025-07-01T06:43:28+00:00",
-    "hash_id": "74b539a80c4e937a",
-    "severity": "high"
-  },
-  {
-    "Content": "Leak db of the Embassy of Djibouti in Morocco",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25680Doxeur23azi/a",
-    "Detection Date": "29 Jun 2025",
-    "message_id": 798084,
-    "timestamp": "2025-06-29T12:45:39+00:00",
-    "hash_id": "1780eff3c9de96a4",
-    "severity": "medium"
-  },
-  {
-    "Content": "MOROCCO - [Potential Internal Document Leak – SOTHEMA]",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
-    "Detection Date": "27 Jun 2025",
-    "message_id": 796658,
-    "timestamp": "2025-06-27T16:35:08+00:00",
-    "hash_id": "965fe7fba813ccb2",
-    "severity": "medium"
-  },
-  {
-    "Content": "MOROCCO - Potential Internal Document Leak – SOTHEMA",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25211darkMods/a",
-    "Detection Date": "27 Jun 2025",
-    "message_id": 796656,
-    "timestamp": "2025-06-27T16:35:03+00:00",
-    "hash_id": "62e726d54ec3f122",
-    "severity": "medium"
-  },
-  {
-    "Content": "Morocco clinic system database",
+    "Content": "IWACLUB Maroc App Compromised",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
     "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
-    "Detection Date": "27 Jun 2025",
-    "message_id": 796048,
-    "timestamp": "2025-06-26T22:59:35+00:00",
-    "hash_id": "ae95fa1f0d7e9fcd",
-    "severity": "low"
-  },
-  {
-    "Content": "Football federation morocco Leak",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
-    "Detection Date": "19 Jun 2025",
-    "message_id": 790068,
-    "timestamp": "2025-06-19T03:16:25+00:00",
-    "hash_id": "4d5c0dd480cb86e4",
+    "Detection Date": "16 Jul 2025",
+    "message_id": 811358,
+    "timestamp": "2025-07-16T01:42:20+00:00",
+    "hash_id": "d8c6ff052e3580c5",
     "severity": "medium"
   },
   {
-    "Content": "HACK DATA MOROCCO - National Agency for Land Conservation (ANCFCC)-By @slanderman47",
-    "Source": "https://darknetarmy.com/",
+    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
     "Type": "Data leak",
-    "author": "(slender47)",
-    "Detection Date": "15 Jun 2025",
-    "message_id": 787108,
-    "timestamp": "2025-06-15T08:14:52+00:00",
-    "hash_id": "39f3bedae84990e8",
+    "message_id": 122679,
+    "timestamp": "2022-08-11T17:49:07+00:00",
+    "hash_id": "556cf3fe4a42cf7d",
     "severity": "medium"
   },
   {
-    "Content": "MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASE",
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=3903Ayiemedia/a",
-    "Detection Date": "14 Jun 2025",
-    "message_id": 786356,
-    "timestamp": "2025-06-14T11:00:59+00:00",
-    "hash_id": "5af45567fb5bba85",
-    "severity": "low"
-  },
-  {
-    "Content": "Morocco Websites data leaked for free download",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
     "Detection Date": "03 Jun 2025",
-    "message_id": 778305,
-    "timestamp": "2025-06-03T14:59:50+00:00",
-    "hash_id": "b55e8e8e69af355e",
-    "severity": "medium"
-  },
-  {
-    "Content": "MOROCCO - National Agency for Land Conservation (ANCFCC) - FULL DATABASES",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=17400Jabaroot/a",
-    "Detection Date": "02 Jun 2025",
-    "message_id": 777419,
-    "timestamp": "2025-06-02T11:36:45+00:00",
-    "hash_id": "1a2e74eb5ce20103",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
     "severity": "low"
-  },
-  {
-    "Content": "Football federation morocco ftp server data leak Free download!",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
-    "Detection Date": "02 Jun 2025",
-    "message_id": 777072,
-    "timestamp": "2025-06-01T23:04:00+00:00",
-    "hash_id": "f096394b46e8ecd0",
-    "severity": "medium"
-  },
-  {
-    "Content": "Morocco Senstive information Leaked Free Download",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=14540B4baYega/a",
-    "Detection Date": "29 May 2025",
-    "message_id": 774752,
-    "timestamp": "2025-05-29T20:24:55+00:00",
-    "hash_id": "f6185604b5e2c256",
-    "severity": "medium"
-  },
-  {
-    "Content": "Morocco Ministry of National Land Use Planning Leaked Free Download",
-    "Source": "https://darknetarmy.com/",
-    "Type": "Data leak",
-    "author": "(B4ba Yega)",
-    "Detection Date": "16 May 2025",
-    "message_id": 765917,
-    "timestamp": "2025-05-16T05:11:43+00:00",
-    "hash_id": "7cb7fa6a7f79fe55",
-    "severity": "medium"
-  },
-  {
-    "Content": "Database Morocco",
-    "Source": "https://breachforums.is/Forum-Databases",
-    "Type": "Data leak",
-    "author": "",
-    "Detection Date": "16 Nov 2023",
-    "message_id": 379960,
-    "timestamp": "2023-11-16T15:50:38+00:00",
-    "hash_id": "37663804cd5b2a89",
-    "severity": "low"
-  },
-  {
-    "Content": "Database Morocco | BreachForums",
-    "Source": "https://breachforums.is/Forum-Databases",
-    "Type": "Data leak",
-    "author": "",
-    "Detection Date": "16 Nov 2023",
-    "message_id": 379959,
-    "timestamp": "2023-11-16T15:50:37+00:00",
-    "hash_id": "2d034e57204f7820",
-    "severity": "high"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 315602,
-    "timestamp": "2023-08-12T05:40:48+00:00",
-    "hash_id": "eb861450118b5b3e",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "12 Aug 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 311543,
-    "timestamp": "2023-08-05T13:22:55+00:00",
-    "hash_id": "b0fa3dd96511ec1d",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "05 Aug 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 303016,
-    "timestamp": "2023-07-20T22:01:38+00:00",
-    "hash_id": "79753b77e0fe116b",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "20 Jul 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 279602,
-    "timestamp": "2023-06-12T16:57:15+00:00",
-    "hash_id": "49751fe32ee96dc6",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "12 Jun 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 278858,
-    "timestamp": "2023-06-11T16:37:14+00:00",
-    "hash_id": "1281bf69661d7904",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "11 Jun 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 275989,
-    "timestamp": "2023-06-07T16:50:26+00:00",
-    "hash_id": "00658700af390a41",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "07 Jun 2023"
-  },
-  {
-    "Content": "28k Morocco",
-    "Source": "https://nohide.space/",
-    "Type": "Data leak",
-    "message_id": 273563,
-    "timestamp": "2023-06-04T07:29:34+00:00",
-    "hash_id": "13936b07ec53f10c",
-    "severity": "medium",
-    "author": "(Fr33_D4t4)",
-    "Detection Date": "04 Jun 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 256376,
-    "timestamp": "2023-05-10T02:33:21+00:00",
-    "hash_id": "451e128306289df0",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "10 May 2023"
-  },
-  {
-    "Content": "Morocco Visa Debit Gold By carding forum",
-    "Source": "https://darkpro.net/",
-    "Type": "Data leak",
-    "message_id": 252344,
-    "timestamp": "2023-05-03T21:13:26+00:00",
-    "hash_id": "2752ff740b9e147a",
-    "severity": "medium",
-    "author": "(SYCOSUNNY)",
-    "Detection Date": "03 May 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 242969,
-    "timestamp": "2023-04-21T02:52:42+00:00",
-    "hash_id": "f657d71b03d57e5c",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "21 Apr 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 234595,
-    "timestamp": "2023-04-09T18:53:19+00:00",
-    "hash_id": "2771a9317dc2eaf6",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "09 Apr 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 229316,
-    "timestamp": "2023-04-02T18:57:49+00:00",
-    "hash_id": "1abe33c2616873fa",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "02 Apr 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 225623,
-    "timestamp": "2023-03-28T08:20:25+00:00",
-    "hash_id": "7bd814c99f7f374b",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "28 Mar 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 222723,
-    "timestamp": "2023-03-23T13:21:59+00:00",
-    "hash_id": "8bc3a0e6e7836316",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "23 Mar 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 213839,
-    "timestamp": "2023-03-09T06:20:05+00:00",
-    "hash_id": "4341f457b5555693",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "09 Mar 2023"
-  },
-  {
-    "Content": "🇲🇦 MOROCCO ID CARD 🇲🇦",
-    "Source": "https://cybercarders.com/",
-    "Type": "Data leak",
-    "message_id": 204878,
-    "timestamp": "2023-02-20T23:07:09+00:00",
-    "hash_id": "02dabedf44e0adda",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "20 Feb 2023"
-  },
-  {
-    "Content": "Hello vps with Morocco ip",
-    "Source": "https://www.blackhatworld.com/",
-    "Type": "Data leak",
-    "message_id": 197921,
-    "timestamp": "2023-02-09T00:26:38+00:00",
-    "hash_id": "eac7fd744465c7ed",
-    "severity": "medium",
-    "author": "(stripe2023)",
-    "Detection Date": "09 Feb 2023"
-  },
-  {
-    "Content": "Hello From Morocco ^^",
-    "Source": "https://www.blackhatworld.com/",
-    "Type": "Data leak",
-    "message_id": 190233,
-    "timestamp": "2023-01-28T00:56:16+00:00",
-    "hash_id": "a2eff3eef9d6fd06",
-    "severity": "medium",
-    "author": "(Adnane marocco)",
-    "Detection Date": "28 Jan 2023"
-  },
-  {
-    "Content": "{ Source: https://www.blackhatworld.com/, Content: Croatia vs Morocco, author: (FabioSelau), Detection Date: 12 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 160283,
-    "timestamp": "2022-12-11T23:18:01+00:00",
-    "hash_id": "21b7076221da045d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://cybercarders.com/, Content: 🇲🇦 MOROCCO ID CARD 🇲🇦, author: , Detection Date: 04 Dec 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 155263,
-    "timestamp": "2022-12-04T07:45:48+00:00",
-    "hash_id": "40a981c3c7b8370d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Source: https://twitter.com/ransomwatcher, Content: #Vice Society: IKEA MoroccoIKEA Kuwait #Website: ikea.com/ma/ #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @: author: RansomWatcher, Detection Date: 28 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 151360,
-    "timestamp": "2022-11-28T14:49:16+00:00",
-    "hash_id": "a3d5ed71415199ea",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ site: Ransomware Related, Content:#Vice Society: IKEA MoroccoIKEA Kuwait #Website: #Country: Morocco, Kuwait #About the victime : We believe that no matter what we do in lif... #ransomware #leaks #infosec #databreach #cyberattack. More @:”, Detection Date: 28 Nov 2022 15:02, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 151319,
-    "timestamp": "2022-11-28T14:05:19+00:00",
-    "hash_id": "79aa5c29da98d9c8",
-    "severity": "critical"
-  },
-  {
-    "Content": "{ Source: https://deeptor.ws/, Content: Morocco Master Debit Standard, author: (mongoose), Detection Date: 05 Nov 2022, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 136603,
-    "timestamp": "2022-11-05T19:03:04+00:00",
-    "hash_id": "ab09ffa487c45ac4",
-    "severity": "medium"
-  },
-  {
-    "Content": "58K COMBOLIST MOROCCO FRESH”",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 127329,
-    "timestamp": "2022-08-31T15:41:54+00:00",
-    "hash_id": "0c00cdee71cae07c",
-    "severity": "medium",
-    "Detection Date": "31 Aug 2022"
-  },
-  {
-    "Content": "{ site: bhf.io, Threat Actor: Maalz, Content: base Morocco”, Detection Date: 31 Dec 2021 18:10, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 27100,
-    "timestamp": "2021-12-31T17:21:28+00:00",
-    "hash_id": "1b04d813f5377a3a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: RaidForums, Threat Actor: [Eslebe Hitler](https://raidforums.com/member.php?action=profile&uid=122077896), Content: Morocco.2021. LinkedIn. Quantity 2,064,201”, Detection Date: “04 Sep 2021 22:52”, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 3330,
-    "timestamp": "2021-09-04T21:36:25+00:00",
-    "hash_id": "60f5be1606405e65",
-    "severity": "medium"
-  },
-  {
-    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
-    "Detection Date": "09 Aug 2025",
-    "message_id": 831037,
-    "timestamp": "2025-08-09T21:41:53+00:00",
-    "hash_id": "48d98a058bc0ffb1",
-    "severity": "medium"
-  },
-  {
-    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
-    "Source": "https://crackingall.com/",
-    "Type": "Data leak",
-    "message_id": 227606,
-    "timestamp": "2023-03-31T03:07:33+00:00",
-    "hash_id": "d464e2354b866206",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "31 Mar 2023"
-  },
-  {
-    "Content": "💥💸 10K+ Moroccan Accounts Leaked — Yours for Just $10! 💸💥",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=31882Hider__Nex/a",
-    "Detection Date": "30 Jul 2025",
-    "message_id": 822894,
-    "timestamp": "2025-07-30T20:46:48+00:00",
-    "hash_id": "2d2310dee2b524ef",
-    "severity": "high"
-  },
-  {
-    "Content": "🔥 Moroccan Real Estate WP Site Compromised 🔥",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=23127marlithorcyber1/a",
-    "Detection Date": "11 Jul 2025",
-    "message_id": 807918,
-    "timestamp": "2025-07-11T16:55:18+00:00",
-    "hash_id": "fdf0f84e94216382",
-    "severity": "medium"
-  },
-  {
-    "Content": "[leak] - Data Moroccan Agricultural Development Agency",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=26421mecrobyte/a",
-    "Detection Date": "09 Jul 2025",
-    "message_id": 806135,
-    "timestamp": "2025-07-09T12:41:27+00:00",
-    "hash_id": "5b9cca49ec9f5ca6",
-    "severity": "medium"
-  },
-  {
-    "Content": "DATABASE LEAK : Moroccan National Social Security Fund",
-    "Source": "Leakbase[.]la",
-    "Type": "Data leak",
-    "author": "(Deleted member 115303)",
-    "Detection Date": "27 Jun 2025",
-    "message_id": 796599,
-    "timestamp": "2025-06-27T15:02:49+00:00",
-    "hash_id": "496424dc0c1f9f7b",
-    "severity": "critical"
-  },
-  {
-    "Content": "Moroccan Government Portals Compromised",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22561XrOOT01/a",
-    "Detection Date": "17 Jun 2025",
-    "message_id": 788760,
-    "timestamp": "2025-06-17T10:23:00+00:00",
-    "hash_id": "69f46616cc0245cb",
-    "severity": "medium"
-  },
-  {
-    "Content": "Massive Credential Drop: Moroccan Banks & Government Portals Compromised",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22561XrOOT01/a",
-    "Detection Date": "16 Jun 2025",
-    "message_id": 787904,
-    "timestamp": "2025-06-16T10:00:50+00:00",
-    "hash_id": "c000346b2f1cda69",
-    "severity": "medium"
-  },
-  {
-    "Content": "DATA (6GB)CNSS - Moroccan National Social Security Fund all docm",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=22150ONIONFAR47/a",
-    "Detection Date": "15 Jun 2025",
-    "message_id": 786933,
-    "timestamp": "2025-06-15T02:10:11+00:00",
-    "hash_id": "8abefceee1208c11",
-    "severity": "high"
-  },
-  {
-    "Content": "+21M Moroccan phone number",
-    "Source": "https://darkforums.st/",
-    "Type": "Data leak",
-    "message_id": 772076,
-    "timestamp": "2025-05-25T20:38:04+00:00",
-    "hash_id": "16b1c4f06abaf4dd",
-    "severity": "medium",
-    "author": "bxxxx1",
-    "Detection Date": "25 May 2025"
-  },
-  {
-    "Content": "Please iam looking for Moroccan Database of national funds for free please i just want to see what is inside of those documents. thank you",
-    "Source": "https://leakbase.io/",
-    "Type": "Data leak",
-    "author": "(kirafesr)",
-    "Detection Date": "14 Apr 2025",
-    "message_id": 744325,
-    "timestamp": "2025-04-14T04:28:33+00:00",
-    "hash_id": "1aa68a7753c7a28f",
-    "severity": "low"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://www.ebrevistas.eb.mil.br/public/site/images/ox/id.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “13 Aug 2022 22:38”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128818,
-    "timestamp": "2022-09-11T16:41:27+00:00",
-    "hash_id": "d891172ec3b48f32",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://myoffice.takesa2.go.th/myoffice/2563/laysen/10.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:34”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128817,
-    "timestamp": "2022-09-11T16:41:25+00:00",
-    "hash_id": "5d7359b1e556207b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://www.ska2.go.th/myoffice/2563/laysen/2282.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:24”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128816,
-    "timestamp": "2022-09-11T16:41:24+00:00",
-    "hash_id": "93659185b12cd795",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://myoffice.surat1.go.th/2563/laysen/1999.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:18”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128815,
-    "timestamp": "2022-09-11T16:41:23+00:00",
-    "hash_id": "b9e95d36fc2d4451",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://myoffice.surin3.go.th/2563/laysen/658.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “17 Nov 2020 12:07”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128814,
-    "timestamp": "2022-09-11T16:41:21+00:00",
-    "hash_id": "eaa415d2321d14b1",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://myoffice.suratpeo.go.th/2563/laysen/55.jpg”, Deface info:” notified by Moroccan Revolution” Detection Date: “16 Nov 2020 18:53”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128813,
-    "timestamp": "2022-09-11T16:41:20+00:00",
-    "hash_id": "5d4ce26549373d0b",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://adm0nlogin.dccpjn.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “11 Sep 2022 02:24”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128806,
-    "timestamp": "2022-09-11T16:21:16+00:00",
-    "hash_id": "1f90ef18c272d4ca",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://wpview.dccpjn.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “10 Sep 2022 03:13”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128805,
-    "timestamp": "2022-09-11T16:21:14+00:00",
-    "hash_id": "82de5c92d852043c",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://ns5.portalwebvillamercedes.gob.ar/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “09 Sep 2022 09:55”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 128615,
-    "timestamp": "2022-09-09T12:05:57+00:00",
-    "hash_id": "81e372e2b60132c5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://dmrlibrary.gov.mm/0x.txt”, Deface info:” notified by Moroccan Revolution” Detection Date: “02 Sep 2022 01:43”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 127705,
-    "timestamp": "2022-09-02T00:05:37+00:00",
-    "hash_id": "654e7476de84d656",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://t4pacenter.ed.gov/T4PAUploadFiles/OfficeHourEvents/w00t.html”, Deface info:” notified by Moroccan Revolution” Detection Date: “30 Aug 2022 09:37”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 127018,
-    "timestamp": "2022-08-30T11:25:09+00:00",
-    "hash_id": "c61ba92d36ff3125",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://www.kalasin-pao.go.th/antidrug//images/id.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “18 Jul 2022 11:38”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 117546,
-    "timestamp": "2022-07-28T15:26:53+00:00",
-    "hash_id": "d32c8d0620650867",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://dpmptspnaker.solokkab.go.id/indox.txt”, Deface info:” notified by Moroccan Revolution” Detection Date: “25 Jul 2022 13:35”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 116390,
-    "timestamp": "2022-07-25T11:50:30+00:00",
-    "hash_id": "9fc4a3369f07a63e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://intranet.kemendag.go.id/43d0433f.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “12 Jul 2022 10:24”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110139,
-    "timestamp": "2022-07-13T08:54:56+00:00",
-    "hash_id": "f3aab96a0f601598",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://ms-calang.go.id/images/gmapfp/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 22:49”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110138,
-    "timestamp": "2022-07-13T08:54:55+00:00",
-    "hash_id": "86e32681224b71d4",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://www.eadfatec.cps.sp.gov.br/revista/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 10:02”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110137,
-    "timestamp": "2022-07-13T08:54:53+00:00",
-    "hash_id": "da5035835f152525",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jtfs.frim.gov.my/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 02:26”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110136,
-    "timestamp": "2022-07-13T08:54:52+00:00",
-    "hash_id": "805826cf9ada9b21",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnal.pekalongankota.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 02:17”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110135,
-    "timestamp": "2022-07-13T08:54:50+00:00",
-    "hash_id": "6f819fbee54ff02d",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://kaderabahasa.kemdikbud.go.id/jurnal/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:46”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110134,
-    "timestamp": "2022-07-13T08:54:49+00:00",
-    "hash_id": "3d023f95322e530e",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://simbelmawa.kemdikbud.go.id/prosiding/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:42”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110133,
-    "timestamp": "2022-07-13T08:54:47+00:00",
-    "hash_id": "96d3244127a370ac",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://transformasi.kemenag.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:39”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110132,
-    "timestamp": "2022-07-13T08:54:46+00:00",
-    "hash_id": "14aeab2b82f07af2",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://ejournaltes.sumselprov.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:21”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110131,
-    "timestamp": "2022-07-13T08:54:45+00:00",
-    "hash_id": "514a24de68ab91d6",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://journal.bawaslu.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:16”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110130,
-    "timestamp": "2022-07-13T08:54:43+00:00",
-    "hash_id": "75049d6d08ab83bf",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnalperbatas.bengkayangkab.go.id/public/site/images/zbiok/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:12”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110129,
-    "timestamp": "2022-07-13T08:54:42+00:00",
-    "hash_id": "c638d10a6a348659",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnalsetjen.kemendagri.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 01:02”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110128,
-    "timestamp": "2022-07-13T08:54:41+00:00",
-    "hash_id": "50108ff5eb662fb3",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://lldikti12.ristekdikti.go.id/jurnal/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:58”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110127,
-    "timestamp": "2022-07-13T08:54:39+00:00",
-    "hash_id": "42be452c2a3ea052",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnaltumotowa.kemdikbud.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:57”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110126,
-    "timestamp": "2022-07-13T08:54:38+00:00",
-    "hash_id": "49fedd17a736064a",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://ejournal.kemensos.go.id/public/site/images/oxzbi/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:55”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110125,
-    "timestamp": "2022-07-13T08:54:37+00:00",
-    "hash_id": "2a0cd3db0ca82d54",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnalpertanahan.atrbpn.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:45”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110124,
-    "timestamp": "2022-07-13T08:54:36+00:00",
-    "hash_id": "e87c190e3f0fa6dd",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnaldikbud.kemdikbud.go.id/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:42”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110123,
-    "timestamp": "2022-07-13T08:54:34+00:00",
-    "hash_id": "7e8c0f7e5df04bcb",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://jurnalkediklatan.kemdikbud.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:34”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110122,
-    "timestamp": "2022-07-13T08:54:33+00:00",
-    "hash_id": "239feeb32f43c416",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: http://jurnal.kemenkopmk.go.id/public/site/images/ox/ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:30”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110121,
-    "timestamp": "2022-07-13T08:54:32+00:00",
-    "hash_id": "b648083901465a7f",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://journal.nds.ox.ac.uk/public/site/images/ox/Ox.gif”, Deface info:” notified by Moroccan Revolution” Detection Date: “07 Jul 2022 00:14”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 110120,
-    "timestamp": "2022-07-13T08:54:30+00:00",
-    "hash_id": "3abfb54c1afc8b65",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Databreach[.]net, Content: Ma: Personal Data of 2 Million Moroccans Leaked Online”, Detection Date: 07 Sep 2021, Type: Data leak } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 3600,
-    "timestamp": "2021-09-07T12:59:25+00:00",
-    "hash_id": "2f77530ded2e21e9",
-    "severity": "critical"
-  },
-  {
-    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
-    "Detection Date": "11 Jun 2025",
-    "message_id": 784190,
-    "timestamp": "2025-06-11T14:12:16+00:00",
-    "hash_id": "66411e10f94b26a3",
-    "severity": "medium"
   }
 ]
