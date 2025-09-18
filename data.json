@@ -427,6 +427,28 @@
     "severity": "critical"
   },
   {
+    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
+    "Detection Date": "09 Aug 2025",
+    "message_id": 831037,
+    "timestamp": "2025-08-09T21:41:53+00:00",
+    "hash_id": "48d98a058bc0ffb1",
+    "severity": "medium"
+  },
+  {
+    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
+    "Source": "https://crackingall.com/",
+    "Type": "Data leak",
+    "message_id": 227606,
+    "timestamp": "2023-03-31T03:07:33+00:00",
+    "hash_id": "d464e2354b866206",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "31 Mar 2023"
+  },
+  {
     "Content": "{ Victim: Dolidol, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __afe363423ec677805d89cf345139157d12772ccbab86593634767080a704b6b2__ Target victim : __www.dolidol.ma__”, Detection Date: 09 Sep 2025, Type: Ransom Alert } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
@@ -954,28 +976,6 @@
     "severity": "high",
     "author": "Leaked Database 7⃣7⃣7⃣",
     "Detection Date": "20 Mar 2023"
-  },
-  {
-    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
-    "Detection Date": "09 Aug 2025",
-    "message_id": 831037,
-    "timestamp": "2025-08-09T21:41:53+00:00",
-    "hash_id": "48d98a058bc0ffb1",
-    "severity": "medium"
-  },
-  {
-    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
-    "Source": "https://crackingall.com/",
-    "Type": "Data leak",
-    "message_id": 227606,
-    "timestamp": "2023-03-31T03:07:33+00:00",
-    "hash_id": "d464e2354b866206",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "31 Mar 2023"
   },
   {
     "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
