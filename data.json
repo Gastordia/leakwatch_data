@@ -11,6 +11,17 @@
     "severity": "medium"
   },
   {
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
+    "severity": "low"
+  },
+  {
     "Content": "Database Leaked Avito.ma 180K",
     "Source": "Leakbase[.]la",
     "Type": "Data leak",
@@ -461,28 +472,6 @@
     "severity": "critical",
     "author": "Unknown",
     "Detection Date": "07 Apr 2023"
-  },
-  {
-    "Content": "f-store.ma | The best account store (BANKS/SHOPS/Selfregister/Brute/FLOOD/SSN/LOOKUP & and more)",
-    "Source": "http://cvvboard.cc/",
-    "Type": "Data leak",
-    "message_id": 232270,
-    "timestamp": "2023-04-06T17:52:15+00:00",
-    "hash_id": "605bd713bf00c620",
-    "severity": "critical",
-    "author": "(FoxStore)",
-    "Detection Date": "06 Apr 2023"
-  },
-  {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
-    "severity": "low"
   },
   {
     "Content": "MOROCCO - Caisse Nationale de Sécurité Sociale (CNSS) Database AGAIN",
@@ -943,48 +932,6 @@
     "severity": "medium"
   },
   {
-    "Content": "IWACLUB Maroc App Compromised",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
-    "Detection Date": "16 Jul 2025",
-    "message_id": 811358,
-    "timestamp": "2025-07-16T01:42:20+00:00",
-    "hash_id": "d8c6ff052e3580c5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 122679,
-    "timestamp": "2022-08-11T17:49:07+00:00",
-    "hash_id": "556cf3fe4a42cf7d",
-    "severity": "medium"
-  },
-  {
-    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
-    "Detection Date": "09 Aug 2025",
-    "message_id": 831037,
-    "timestamp": "2025-08-09T21:41:53+00:00",
-    "hash_id": "48d98a058bc0ffb1",
-    "severity": "medium"
-  },
-  {
-    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
-    "Source": "https://crackingall.com/",
-    "Type": "Data leak",
-    "message_id": 227606,
-    "timestamp": "2023-03-31T03:07:33+00:00",
-    "hash_id": "d464e2354b866206",
-    "severity": "medium",
-    "author": "Unknown",
-    "Detection Date": "31 Mar 2023"
-  },
-  {
     "Content": "DATABASE LEAK : Moroccan National Social Security Fund",
     "Source": "Leakbase[.]la",
     "Type": "Data leak",
@@ -1388,5 +1335,47 @@
     "timestamp": "2021-09-07T12:59:25+00:00",
     "hash_id": "2f77530ded2e21e9",
     "severity": "critical"
+  },
+  {
+    "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=365350xCrystal/a",
+    "Detection Date": "09 Aug 2025",
+    "message_id": 831037,
+    "timestamp": "2025-08-09T21:41:53+00:00",
+    "hash_id": "48d98a058bc0ffb1",
+    "severity": "medium"
+  },
+  {
+    "Content": "Raja Casablanca vs Simba Sports Club Prediction",
+    "Source": "https://crackingall.com/",
+    "Type": "Data leak",
+    "message_id": 227606,
+    "timestamp": "2023-03-31T03:07:33+00:00",
+    "hash_id": "d464e2354b866206",
+    "severity": "medium",
+    "author": "Unknown",
+    "Detection Date": "31 Mar 2023"
+  },
+  {
+    "Content": "IWACLUB Maroc App Compromised",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
+    "Detection Date": "16 Jul 2025",
+    "message_id": 811358,
+    "timestamp": "2025-07-16T01:42:20+00:00",
+    "hash_id": "d8c6ff052e3580c5",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 122679,
+    "timestamp": "2022-08-11T17:49:07+00:00",
+    "hash_id": "556cf3fe4a42cf7d",
+    "severity": "medium"
   }
 ]
