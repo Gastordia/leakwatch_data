@@ -1,16 +1,5 @@
 [
   {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
-    "severity": "low"
-  },
-  {
     "Content": "Database Leaked Avito.ma 180K",
     "Source": "Leakbase[.]la",
     "Type": "Data leak",
@@ -450,6 +439,17 @@
     "severity": "medium",
     "author": "Unknown",
     "Detection Date": "19 Apr 2023"
+  },
+  {
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
+    "severity": "low"
   },
   {
     "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
