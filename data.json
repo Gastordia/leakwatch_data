@@ -1,56 +1,45 @@
 [
   {
-    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Content": "Pharmacie.ma Database",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "03 Jun 2025",
-    "message_id": 777900,
-    "timestamp": "2025-06-03T01:56:02+00:00",
-    "hash_id": "ed1f597d61035599",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=7728KaruHunters/a",
+    "Detection Date": "29 Sep 2025",
+    "message_id": 886318,
+    "timestamp": "2025-09-29T07:36:29+00:00",
+    "hash_id": "c9e81a079d614741",
     "severity": "low"
   },
   {
-    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
-    "Source": "Darkforums[.]st",
+    "Content": "Database Leaked Avito.ma 180K",
+    "Source": "Leakbase[.]la",
     "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
-    "Detection Date": "11 Jun 2025",
-    "message_id": 784190,
-    "timestamp": "2025-06-11T14:12:16+00:00",
-    "hash_id": "66411e10f94b26a3",
-    "severity": "medium"
+    "author": "(Chucky)",
+    "Detection Date": "23 Sep 2025",
+    "message_id": 877802,
+    "timestamp": "2025-09-22T23:32:30+00:00",
+    "hash_id": "d8c84b086230264e",
+    "severity": "high"
   },
   {
-    "Content": "IWACLUB Maroc App Compromised",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
-    "Detection Date": "16 Jul 2025",
-    "message_id": 811358,
-    "timestamp": "2025-07-16T01:42:20+00:00",
-    "hash_id": "d8c6ff052e3580c5",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
+    "Content": "{ Victim: Dolidol, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __afe363423ec677805d89cf345139157d12772ccbab86593634767080a704b6b2__ Target victim : __www.dolidol.ma__”, Detection Date: 09 Sep 2025, Type: Ransom Alert } Data Leak monitoring system",
     "Source": "Unknown",
     "Type": "Data leak",
-    "message_id": 122679,
-    "timestamp": "2022-08-11T17:49:07+00:00",
-    "hash_id": "556cf3fe4a42cf7d",
-    "severity": "medium"
+    "message_id": 859400,
+    "timestamp": "2025-09-09T20:27:29+00:00",
+    "hash_id": "c7d7f1b22c47a30b",
+    "severity": "high"
   },
   {
-    "Content": "MOROCCO - Caisse Nationale de Sécurité Sociale (CNSS) Database AGAIN",
+    "Content": "🇲🇦 Neweracom.ma ERP Breach — 476K+ HR",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=38281Knee_Grow/a",
-    "Detection Date": "17 Aug 2025",
-    "message_id": 837369,
-    "timestamp": "2025-08-17T19:32:07+00:00",
-    "hash_id": "e3a456301e3e712e",
-    "severity": "low"
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=9Chucky_BF/a",
+    "Detection Date": "06 Aug 2025",
+    "message_id": 828137,
+    "timestamp": "2025-08-06T09:50:33+00:00",
+    "hash_id": "92499c1a0a566c71",
+    "severity": "medium"
   },
   {
     "Content": "[🇲🇦 Morocco] ismac.ma — Academic & Applicant Database Leak | 1",
@@ -62,6 +51,152 @@
     "timestamp": "2025-07-25T12:54:55+00:00",
     "hash_id": "b685e3d5068a6287",
     "severity": "high"
+  },
+  {
+    "Content": "{ Victim: ashlandk12maus, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __90acff064a79a2068643d0e7d5f8122b880eddc5d6d63f907b1afdf79179edc9__ Target victim : __ashland.k12.ma.us__”, Detection Date: 17 Jul 2025, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 812233,
+    "timestamp": "2025-07-17T02:48:54+00:00",
+    "hash_id": "8fa17c5b764649b0",
+    "severity": "high"
+  },
+  {
+    "Content": "hacked website : www.cromc.ma",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
+    "Detection Date": "10 Jul 2025",
+    "message_id": 806931,
+    "timestamp": "2025-07-10T12:25:08+00:00",
+    "hash_id": "b5b7808eba2b2c9b",
+    "severity": "medium"
+  },
+  {
+    "Content": "joutech.ma Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=7445RL000/a",
+    "Detection Date": "08 Jul 2025",
+    "message_id": 805450,
+    "timestamp": "2025-07-08T15:39:00+00:00",
+    "hash_id": "d48a67f88d6b957b",
+    "severity": "low"
+  },
+  {
+    "Content": "inwi telecom inwi.ma DataBase",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a",
+    "Detection Date": "05 Jul 2025",
+    "message_id": 803281,
+    "timestamp": "2025-07-05T22:03:35+00:00",
+    "hash_id": "b32570a22fe2f048",
+    "severity": "low"
+  },
+  {
+    "Content": "hacked website : enssup.gov.ma",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
+    "Detection Date": "01 Jul 2025",
+    "message_id": 799857,
+    "timestamp": "2025-07-01T16:48:36+00:00",
+    "hash_id": "975c27b366715136",
+    "severity": "medium"
+  },
+  {
+    "Content": "hacked website : Culture.ma",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
+    "Detection Date": "28 Jun 2025",
+    "message_id": 797395,
+    "timestamp": "2025-06-28T14:10:54+00:00",
+    "hash_id": "f58881739e7b438c",
+    "severity": "medium"
+  },
+  {
+    "Content": "Uca.ma Database 100K",
+    "Source": "https://leakbase.io/",
+    "Type": "Data leak",
+    "author": "(frog)",
+    "Detection Date": "12 Apr 2025",
+    "message_id": 743139,
+    "timestamp": "2025-04-12T12:16:55+00:00",
+    "hash_id": "58ddabac59bff8ff",
+    "severity": "low"
+  },
+  {
+    "Content": "{ Victim: askgsma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __8a86391c913aaab6191926cb2bd0b328cf5ddc28954fe2b7e0e54d62b787a01f__ Target victim : __askgs.ma__”, Detection Date: 12 Feb 2025, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 700131,
+    "timestamp": "2025-02-12T14:04:50+00:00",
+    "hash_id": "cf05148022c90644",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Victim: wwwusmbaacma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __d8c9f41d9b90fafdb3590898dcf1bad776c1b4eb4b8243a6c0cd552750039b5e__ Target victim : __www.usmba.ac.ma__”, Detection Date: 24 Jan 2025, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 687636,
+    "timestamp": "2025-01-24T20:49:42+00:00",
+    "hash_id": "c81376cbb349688e",
+    "severity": "high"
+  },
+  {
+    "Content": "{ Victim: Watertown-Public-Schools, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __ff085770cb2d9908464cd8208f88101f04acd2a91a88de49a07b42126755f0f2__ Target victim : __watertown.k12.ma.us__”, Detection Date: 28 Dec 2024, Type: Ransom Alert } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 669997,
+    "timestamp": "2024-12-28T16:39:48+00:00",
+    "hash_id": "eddf549650995420",
+    "severity": "high"
+  },
+  {
+    "Content": "Database Adidas.co.ma [Full Dump] 62K Users",
+    "Source": "https://leakbase.cc/",
+    "Type": "Data leak",
+    "author": "(Chucky)",
+    "Detection Date": "30 Jul 2024",
+    "message_id": 581991,
+    "timestamp": "2024-07-30T16:15:00+00:00",
+    "hash_id": "a1302b3456f95f99",
+    "severity": "critical"
+  },
+  {
+    "Content": "Database Adidas.co.ma",
+    "Source": "https://leakbase.cc/",
+    "Type": "Data leak",
+    "author": "(BINDECH)",
+    "Detection Date": "29 Jul 2024",
+    "message_id": 581499,
+    "timestamp": "2024-07-29T19:10:28+00:00",
+    "hash_id": "de6ad331cb536a8a",
+    "severity": "low"
+  },
+  {
+    "Content": "FREE - [ Brazil ] gcv.pm.ma.gov.br Database",
+    "Source": "Breachforums/",
+    "Type": "Data leak",
+    "author": "",
+    "Detection Date": "29 Mar 2024",
+    "message_id": 481491,
+    "timestamp": "2024-03-28T23:51:44+00:00",
+    "hash_id": "6139ddc5d08a1cc3",
+    "severity": "low"
+  },
+  {
+    "Content": "MOROCCO - Caisse Nationale de Sécurité Sociale (CNSS) Database AGAIN",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=38281Knee_Grow/a",
+    "Detection Date": "17 Aug 2025",
+    "message_id": 837369,
+    "timestamp": "2025-08-17T19:32:07+00:00",
+    "hash_id": "e3a456301e3e712e",
+    "severity": "low"
   },
   {
     "Content": "Morocco (PMMP) Moroccan government for public procurement Full Database Breached",
@@ -511,6 +646,37 @@
     "severity": "medium"
   },
   {
+    "Content": "IWACLUB Maroc App Compromised",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=20313Keymous/a",
+    "Detection Date": "16 Jul 2025",
+    "message_id": 811358,
+    "timestamp": "2025-07-16T01:42:20+00:00",
+    "hash_id": "d8c6ff052e3580c5",
+    "severity": "medium"
+  },
+  {
+    "Content": "{ site: Zone-H, Target: https://afis.cda.gov.ph”, Deface info:” notified by Jean Maroc” Detection Date: “13 Jul 2022 15:48”, Type: Defacement } Data Leak monitoring system",
+    "Source": "Unknown",
+    "Type": "Data leak",
+    "message_id": 122679,
+    "timestamp": "2022-08-11T17:49:07+00:00",
+    "hash_id": "556cf3fe4a42cf7d",
+    "severity": "medium"
+  },
+  {
+    "Content": "Marrocan University - FSTE Université Moulay Ismaïl - Full Database",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "03 Jun 2025",
+    "message_id": 777900,
+    "timestamp": "2025-06-03T01:56:02+00:00",
+    "hash_id": "ed1f597d61035599",
+    "severity": "low"
+  },
+  {
     "Content": "Moroccan Smart City Meknes Database Leaked !",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -927,183 +1093,6 @@
     "severity": "critical"
   },
   {
-    "Content": "Pharmacie.ma Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=7728KaruHunters/a",
-    "Detection Date": "29 Sep 2025",
-    "message_id": 886318,
-    "timestamp": "2025-09-29T07:36:29+00:00",
-    "hash_id": "c9e81a079d614741",
-    "severity": "low"
-  },
-  {
-    "Content": "Database Leaked Avito.ma 180K",
-    "Source": "Leakbase[.]la",
-    "Type": "Data leak",
-    "author": "(Chucky)",
-    "Detection Date": "23 Sep 2025",
-    "message_id": 877802,
-    "timestamp": "2025-09-22T23:32:30+00:00",
-    "hash_id": "d8c84b086230264e",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Victim: Dolidol, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __afe363423ec677805d89cf345139157d12772ccbab86593634767080a704b6b2__ Target victim : __www.dolidol.ma__”, Detection Date: 09 Sep 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 859400,
-    "timestamp": "2025-09-09T20:27:29+00:00",
-    "hash_id": "c7d7f1b22c47a30b",
-    "severity": "high"
-  },
-  {
-    "Content": "🇲🇦 Neweracom.ma ERP Breach — 476K+ HR",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=9Chucky_BF/a",
-    "Detection Date": "06 Aug 2025",
-    "message_id": 828137,
-    "timestamp": "2025-08-06T09:50:33+00:00",
-    "hash_id": "92499c1a0a566c71",
-    "severity": "medium"
-  },
-  {
-    "Content": "{ Victim: ashlandk12maus, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __90acff064a79a2068643d0e7d5f8122b880eddc5d6d63f907b1afdf79179edc9__ Target victim : __ashland.k12.ma.us__”, Detection Date: 17 Jul 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 812233,
-    "timestamp": "2025-07-17T02:48:54+00:00",
-    "hash_id": "8fa17c5b764649b0",
-    "severity": "high"
-  },
-  {
-    "Content": "hacked website : www.cromc.ma",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
-    "Detection Date": "10 Jul 2025",
-    "message_id": 806931,
-    "timestamp": "2025-07-10T12:25:08+00:00",
-    "hash_id": "b5b7808eba2b2c9b",
-    "severity": "medium"
-  },
-  {
-    "Content": "joutech.ma Database",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=7445RL000/a",
-    "Detection Date": "08 Jul 2025",
-    "message_id": 805450,
-    "timestamp": "2025-07-08T15:39:00+00:00",
-    "hash_id": "d48a67f88d6b957b",
-    "severity": "low"
-  },
-  {
-    "Content": "inwi telecom inwi.ma DataBase",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=26005Evil_BYTE_Officiel/a",
-    "Detection Date": "05 Jul 2025",
-    "message_id": 803281,
-    "timestamp": "2025-07-05T22:03:35+00:00",
-    "hash_id": "b32570a22fe2f048",
-    "severity": "low"
-  },
-  {
-    "Content": "hacked website : enssup.gov.ma",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
-    "Detection Date": "01 Jul 2025",
-    "message_id": 799857,
-    "timestamp": "2025-07-01T16:48:36+00:00",
-    "hash_id": "975c27b366715136",
-    "severity": "medium"
-  },
-  {
-    "Content": "hacked website : Culture.ma",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=25520magherbi/a",
-    "Detection Date": "28 Jun 2025",
-    "message_id": 797395,
-    "timestamp": "2025-06-28T14:10:54+00:00",
-    "hash_id": "f58881739e7b438c",
-    "severity": "medium"
-  },
-  {
-    "Content": "Uca.ma Database 100K",
-    "Source": "https://leakbase.io/",
-    "Type": "Data leak",
-    "author": "(frog)",
-    "Detection Date": "12 Apr 2025",
-    "message_id": 743139,
-    "timestamp": "2025-04-12T12:16:55+00:00",
-    "hash_id": "58ddabac59bff8ff",
-    "severity": "low"
-  },
-  {
-    "Content": "{ Victim: askgsma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __8a86391c913aaab6191926cb2bd0b328cf5ddc28954fe2b7e0e54d62b787a01f__ Target victim : __askgs.ma__”, Detection Date: 12 Feb 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 700131,
-    "timestamp": "2025-02-12T14:04:50+00:00",
-    "hash_id": "cf05148022c90644",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Victim: wwwusmbaacma, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __d8c9f41d9b90fafdb3590898dcf1bad776c1b4eb4b8243a6c0cd552750039b5e__ Target victim : __www.usmba.ac.ma__”, Detection Date: 24 Jan 2025, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 687636,
-    "timestamp": "2025-01-24T20:49:42+00:00",
-    "hash_id": "c81376cbb349688e",
-    "severity": "high"
-  },
-  {
-    "Content": "{ Victim: Watertown-Public-Schools, Source: ransomfeed[.]it, Content: Ransomware group called  claims attack for . We identify this attack with following : __ff085770cb2d9908464cd8208f88101f04acd2a91a88de49a07b42126755f0f2__ Target victim : __watertown.k12.ma.us__”, Detection Date: 28 Dec 2024, Type: Ransom Alert } Data Leak monitoring system",
-    "Source": "Unknown",
-    "Type": "Data leak",
-    "message_id": 669997,
-    "timestamp": "2024-12-28T16:39:48+00:00",
-    "hash_id": "eddf549650995420",
-    "severity": "high"
-  },
-  {
-    "Content": "Database Adidas.co.ma [Full Dump] 62K Users",
-    "Source": "https://leakbase.cc/",
-    "Type": "Data leak",
-    "author": "(Chucky)",
-    "Detection Date": "30 Jul 2024",
-    "message_id": 581991,
-    "timestamp": "2024-07-30T16:15:00+00:00",
-    "hash_id": "a1302b3456f95f99",
-    "severity": "critical"
-  },
-  {
-    "Content": "Database Adidas.co.ma",
-    "Source": "https://leakbase.cc/",
-    "Type": "Data leak",
-    "author": "(BINDECH)",
-    "Detection Date": "29 Jul 2024",
-    "message_id": 581499,
-    "timestamp": "2024-07-29T19:10:28+00:00",
-    "hash_id": "de6ad331cb536a8a",
-    "severity": "low"
-  },
-  {
-    "Content": "FREE - [ Brazil ] gcv.pm.ma.gov.br Database",
-    "Source": "Breachforums/",
-    "Type": "Data leak",
-    "author": "",
-    "Detection Date": "29 Mar 2024",
-    "message_id": 481491,
-    "timestamp": "2024-03-28T23:51:44+00:00",
-    "hash_id": "6139ddc5d08a1cc3",
-    "severity": "low"
-  },
-  {
     "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -1124,5 +1113,16 @@
     "severity": "medium",
     "author": "Unknown",
     "Detection Date": "31 Mar 2023"
+  },
+  {
+    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
+    "Detection Date": "11 Jun 2025",
+    "message_id": 784190,
+    "timestamp": "2025-06-11T14:12:16+00:00",
+    "hash_id": "66411e10f94b26a3",
+    "severity": "medium"
   }
 ]
