@@ -188,17 +188,6 @@
     "severity": "low"
   },
   {
-    "Content": "Moroccan Smart City Meknes Database Leaked !",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
-    "Detection Date": "30 Sep 2025",
-    "message_id": 887362,
-    "timestamp": "2025-09-30T00:21:51+00:00",
-    "hash_id": "f432891a1aa331ba",
-    "severity": "high"
-  },
-  {
     "Content": "MOROCCO - Caisse Nationale de Sécurité Sociale (CNSS) Database AGAIN",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -657,6 +646,17 @@
     "severity": "medium"
   },
   {
+    "Content": "Moroccan Smart City Meknes Database Leaked !",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=18319r3i/a",
+    "Detection Date": "30 Sep 2025",
+    "message_id": 887362,
+    "timestamp": "2025-09-30T00:21:51+00:00",
+    "hash_id": "f432891a1aa331ba",
+    "severity": "high"
+  },
+  {
     "Content": "DATABASE LEAK : Moroccan National Social Security Fund",
     "Source": "Leakbase[.]la",
     "Type": "Data leak",
@@ -1062,17 +1062,6 @@
     "severity": "critical"
   },
   {
-    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
-    "Source": "Darkforums[.]st",
-    "Type": "Data leak",
-    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
-    "Detection Date": "11 Jun 2025",
-    "message_id": 784190,
-    "timestamp": "2025-06-11T14:12:16+00:00",
-    "hash_id": "66411e10f94b26a3",
-    "severity": "medium"
-  },
-  {
     "Content": "IWACLUB Maroc App Compromised",
     "Source": "Darkforums[.]st",
     "Type": "Data leak",
@@ -1102,6 +1091,17 @@
     "timestamp": "2025-06-03T01:56:02+00:00",
     "hash_id": "ed1f597d61035599",
     "severity": "low"
+  },
+  {
+    "Content": "[Leak LeFigaro ] – When you insult the Maghreb",
+    "Source": "Darkforums[.]st",
+    "Type": "Data leak",
+    "author": "a href=https://darkforums.st/member.php?action=profile&uid=12500GoldRabbitMaghreb/a",
+    "Detection Date": "11 Jun 2025",
+    "message_id": 784190,
+    "timestamp": "2025-06-11T14:12:16+00:00",
+    "hash_id": "66411e10f94b26a3",
+    "severity": "medium"
   },
   {
     "Content": "Université Hassan II de Casablanca Breached 16K lines students data",
